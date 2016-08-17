@@ -1,0 +1,91 @@
+@font-face {
+    font-family: CaviarDreams;
+    src: url(../fonts/CaviarDreams.ttf);
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	max-width: 750px;
+	max-height: 450px;
+	height: 450px;
+	border: 1px solid #000;
+	margin: 0 auto;
+}
+
+.gameBg {
+	position: relative;
+	max-width: 750px;
+	max-height: 450px;
+	height: 450px;
+	background-image: url('../img/home-screen.jpg');
+	background-size: 750px 450px;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+
+.start-button {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	text-align: center;
+}
+
+.start-button > img {
+	width: 180px;
+	cursor:	pointer;
+}
+
+.home-menu ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+	width: 275px;
+    margin: 0 auto;
+    margin-top: 90px;
+}
+
+.home-menu ul > li {
+	height: 50px;
+}
+
+.home-menu ul > li > span {
+	text-transform: uppercase;
+	color: #fff;
+	font-family: CaviarDreams;
+	font-size: 12px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	line-height: 45px;
+	margin-right: 108px;
+}
+
+li#explore {
+	background-image: url('../img/first-btn.png');
+	background-size: 220px 45px;
+	background-repeat: no-repeat; 
+}
+
+li#cCompaign {
+	background-image: url('../img/second-btn.png');
+	background-size: 220px 45px;
+	background-repeat: no-repeat; 
+}
+
+li#instructions {
+	background-image: url('../img/third-btn.png');
+	background-size: 220px 45px;
+	background-repeat: no-repeat; 
+}
+
+li#mPlace {
+	background-image: url('../img/fourth-btn.png');
+	background-size: 200px 45px;
+	background-repeat: no-repeat;
+	margin-left: 8px;
+}

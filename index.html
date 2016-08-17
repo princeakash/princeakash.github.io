@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Speedy Rocket</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+	<script type="text/javascript">
+	$(document).ready(function(e){
+    $("#start-button").click(function(e){
+	   	$('.gameBg').css("background-image", "url(./img/home-screen.jpg)");
+	   	$('.start-button').css("display", "none");
+	   	$('.home-menu').css("display", "block");
+	    });
+	});
+	</script>
+</head>
+<body>
+	<div class="container">
+		<div class="gameBg">
+			<div class="start-button">
+				<img src="img/start-button.png" id="start-button">
+			</div>
+			<div class="home-menu">
+				<ul>
+					<li id="explore"><span>explore</span></li>
+					<li id="cCompaign"><span>choose compaign</span></li>
+					<li id="instructions"><span>instructions</span></li>
+					<li id="mPlace"><span>market place</span></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
