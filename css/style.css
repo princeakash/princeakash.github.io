@@ -8,6 +8,10 @@
 	padding: 0;
 }
 
+body {
+	background-color: #000;
+}
+
 .container {
 	max-width: 750px;
 	max-height: 450px;
@@ -89,7 +93,7 @@ li#explore {
 	background-repeat: no-repeat; 
 }
 
-li#cCompaign {
+li#cCampaign {
 	background-image: url('../img/second-btn.png');
 	background-size: 220px 45px;
 	background-repeat: no-repeat;
@@ -107,3 +111,174 @@ li#mPlace {
 	background-repeat: no-repeat;
 	margin-left: 8px;
 }
+
+.camText {
+	float: left;
+	position: relative;
+	width: 300px;
+    height: 35px;
+    font-family: CaviarDreams;
+    color: #fff;
+    font-weight: bold;
+    text-align: right;
+    font-size: 15px;
+    margin-top: 20px;
+    display: none;
+}
+
+.camTextLarge {
+	margin-left: 260px;
+}
+
+.camTextSmall {
+	width: 150px;
+}
+
+.camOnly {
+	float: right;
+    font-family: CaviarDreams;
+    color: #F4B04F;
+    font-weight: bold;
+    font-size: 30px;
+    margin-right: 125px;
+    text-transform: uppercase;
+    margin-top: 15px;
+    display: none;
+}
+
+.cambgback {
+    width: 500px;
+    background-image: url('../img/campaign-back-bg.png');
+	background-size: 500px 250px;
+	background-repeat: no-repeat;
+    height: 250px;
+    margin: 0 auto;
+    margin-top: 110px;
+    display: none;
+}
+
+.cambgfront {
+    width: 500px;
+    background-image: url('../img/campaign-front-bg.png');
+    background-size: 480px 265px;
+    background-repeat: no-repeat;
+    height: 265px;
+    margin: 0 auto;
+    margin-top: 110px;
+    margin-right: 35px;
+    display: none;
+}
+
+.cambgfronttextwrap {
+	float: left;
+	display: none;
+}
+
+.cambgfronttext {
+    float: left;
+    clear: left;
+    width: 170px;
+    height: 20px;
+    background-color: #8FCFFB;
+    margin-left: 22px;
+    margin-top: 8px;
+}
+
+ .cambgfronttext:first-child {
+ 	margin-top: 58px;
+ }
+
+ .cambgfronttext > span {
+ 	font-family: CaviarDreams;
+    font-size: 14px;
+    color: #1A4E7E;
+    font-weight: bold;
+    line-height: 20px;
+    padding-left: 10px;
+ }
+
+ .cambgfronttextdist {
+ 	float: left;
+    clear: left;
+    width: 240px;
+    height: 20px;
+    font-family: CaviarDreams;
+    font-size: 14px;
+    color: #1A4E7E;
+    font-weight: bold;
+    background-color: #8FCFFB;
+    margin-left: 32px;
+    margin-top: 8px;	
+ }
+
+ .cambgfronttextdist:first-child {
+ 	margin-top: 58px;
+ }
+
+ .cambgfronttextdist > span {
+ 	font-family: CaviarDreams;
+    font-size: 14px;
+    color: #1A4E7E;
+    font-weight: bold;
+    line-height: 20px;
+    padding-left: 10px;
+ }
+
+ .camtextbtm {
+ 	float: left;
+ 	position: relative;
+ 	width: 320px;
+ 	height: 35px;
+ 	text-align: right;
+ 	font-family: CaviarDreams;
+    font-size: 15px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 15px;
+    display: none;
+ }
+
+ .camtextbtmsmall {
+ 	float: left;
+ 	position: relative;
+ 	width: 200px;
+ 	height: 35px;
+ 	text-align: right;
+ 	line-height: 28px;
+ 	font-family: CaviarDreams;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 30px;
+    display: none;
+ }
+
+ .camtextbtmxsmall {
+ 	float: left;
+ 	position: relative;
+ 	width: 210px;
+ 	height: 35px;
+ 	text-align: right;
+ 	line-height: 28px;
+ 	font-family: CaviarDreams;
+    font-size: 14px;
+    color: #fff;
+    font-weight: bold;
+    display: none;
+ }
+
+.cambtbackbtn {
+	float: left;
+ 	position: relative;
+ 	width: 210px;
+ 	height: 35px;
+ 	text-align: right;
+ 	line-height: 28px;
+ 	font-family: CaviarDreams;
+    font-size: 14px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 25px;
+    cursor: pointer;
+    display: none;
+ }
