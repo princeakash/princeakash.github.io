@@ -7,10 +7,18 @@
 	<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
 	<script type="text/javascript">
 	$(document).ready(function(e){
-    $("#start-button").click(function(e){
-	   	$('.gameBg').css("background-image", "url(./img/home-screen.jpg)");
-	   	$('.start-button').css("display", "none");
-	   	$('.home-menu').css("display", "block");
+    	$("#start-button").click(function(e){
+	   		$('.gameBg').css("background-image", "url(./img/home-screen.jpg)");
+	   		$('.start-button').css("display", "none");
+	   		$('.home-menu').show();
+	    });
+	    $("#cCompaign").click(function(e){
+	   		$('.gameBg').css("background-image", "url(./img/campaign.png)");
+	   		$('.back-button').show();
+	   		$('#explore').css("display", "none");
+	   		$('#cCompaign').css("display", "none");
+	   		$('#instructions').css("display", "none");
+	   		$('#mPlace').css("display", "none");
 	    });
 	});
 	</script>
@@ -20,6 +28,9 @@
 		<div class="gameBg">
 			<div class="start-button">
 				<img src="img/start-button.png" id="start-button">
+			</div>
+			<div class="back-button">
+				<img src="img/back-btn.png" id="back-button">
 			</div>
 			<div class="home-menu">
 				<ul>
