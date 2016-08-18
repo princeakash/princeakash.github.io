@@ -12,13 +12,19 @@
 	   		$('.start-button').css("display", "none");
 	   		$('.home-menu').show();
 	    });
-	    $("#cCompaign").click(function(e){
-	   		$('.gameBg').css("background-image", "url(./img/campaign.png)");
-	   		$('.back-button').show();
-	   		$('#explore').css("display", "none");
-	   		$('#cCompaign').css("display", "none");
-	   		$('#instructions').css("display", "none");
-	   		$('#mPlace').css("display", "none");
+	    $("#cCampaign").click(function(e){
+	   		$('.gameBg').css("background-image", "url(./img/campaign-bg.jpg)");
+	   		//$('.back-button').show();
+	   		$('.camText').show();
+	   		$('.camOnly').show();
+	   		$('.cambgback').show();
+	   		$('.cambgfront').show();
+	   		$('.cambgfronttextwrap').show();
+	   		$('.camtextbtm').show();	
+	   		$('.camtextbtmsmall').show();
+	   		$('.camtextbtmxsmall').show();
+	   		$('.cambtbackbtn').show();
+	   		$('.home-menu').hide();
 	    });
 	});
 	</script>
@@ -35,10 +41,51 @@
 			<div class="home-menu">
 				<ul>
 					<li id="explore"><span>explore</span></li>
-					<li id="cCompaign"><span>choose compaign</span></li>
+					<li id="cCampaign"><span>choose campaign</span></li>
 					<li id="instructions"><span>instructions</span></li>
 					<li id="mPlace"><span>market place</span></li>
 				</ul>
+			</div>
+			<div class="camText camTextLarge">
+				Take your flight from planet<p>Place your flag and name on each planet</p>
+			</div>
+			<div class="camText camTextSmall">
+				There are 5 planets
+			</div>
+			<div class="camOnly">
+				campaigns
+			</div>
+			<div class="cambgback">
+				<div class="cambgfront">
+					<div class="cambgfronttextwrap">
+						<div class="cambgfronttext"><span>Planet<span></div>
+						<div class="cambgfronttext"><span>Zifta</span></div>
+						<div class="cambgfronttext"><span>Tanel</span></div>
+						<div class="cambgfronttext"><span>Kulus</span></div>
+						<div class="cambgfronttext"><span>Bistik</span></div>
+						<div class="cambgfronttext"><span>Touc</span></div>
+					</div>
+					<div class="cambgfronttextwrap">
+						<div class="cambgfronttextdist"><span>Distance from Earth</span></div>
+						<div class="cambgfronttextdist"><span>720</span></div>
+						<div class="cambgfronttextdist"><span>850</span></div>
+						<div class="cambgfronttextdist"><span>970</span></div>
+						<div class="cambgfronttextdist"><span>1041</span></div>
+						<div class="cambgfronttextdist"><span>1345</span></div>
+					</div>
+				</div>
+			</div>
+			<div class="camtextbtm">
+				Avoid obstacles and earn coins as you travel<p>through each planet.</p>
+			</div>
+			<div class="camtextbtmsmall">
+				the Higher you Go, the MORE the Obstacles.!!
+			</div>
+			<div class="camtextbtmxsmall">
+				Goal is to get all of them
+			</div>
+			<div class="cambtbackbtn">
+				<img src="img/back-btn.png" id="cambtbackbtn">
 			</div>
 		</div>
 	</div>
