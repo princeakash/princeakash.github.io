@@ -4,30 +4,8 @@
 	<title>Speedy Rocket</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
-	<script type="text/javascript">
-	$(document).ready(function(e){
-    	$("#start-button").click(function(e){
-	   		$('.gameBg').css("background-image", "url(./img/home-screen.jpg)");
-	   		$('.start-button').css("display", "none");
-	   		$('.home-menu').show();
-	    });
-	    $("#cCampaign").click(function(e){
-	   		$('.gameBg').css("background-image", "url(./img/campaign-bg.jpg)");
-	   		//$('.back-button').show();
-	   		$('.camText').show();
-	   		$('.camOnly').show();
-	   		$('.cambgback').show();
-	   		$('.cambgfront').show();
-	   		$('.cambgfronttextwrap').show();
-	   		$('.camtextbtm').show();	
-	   		$('.camtextbtmsmall').show();
-	   		$('.camtextbtmxsmall').show();
-	   		$('.cambtbackbtn').show();
-	   		$('.home-menu').hide();
-	    });
-	});
-	</script>
+	<script src="js/jquery-3.1.0.min.js"></script>
+	<script src="js/srocket.js"></script>
 </head>
 <body>
 	<div class="container">
@@ -46,6 +24,7 @@
 					<li id="mPlace"><span>market place</span></li>
 				</ul>
 			</div>
+			<div class="campaign-main">
 			<div class="camText camTextLarge">
 				Take your flight from planet<p>Place your flag and name on each planet</p>
 			</div>
@@ -59,11 +38,11 @@
 				<div class="cambgfront">
 					<div class="cambgfronttextwrap">
 						<div class="cambgfronttext"><span>Planet<span></div>
-						<div class="cambgfronttext"><span>Zifta</span></div>
-						<div class="cambgfronttext"><span>Tanel</span></div>
-						<div class="cambgfronttext"><span>Kulus</span></div>
-						<div class="cambgfronttext"><span>Bistik</span></div>
-						<div class="cambgfronttext"><span>Touc</span></div>
+						<div class="cambgfronttext"><span class="planet" id="zifta">Zifta</span></div>
+						<div class="cambgfronttext"><span class="planet" id="tanel">Tanel</span></div>
+						<div class="cambgfronttext"><span class="planet" id="kulus">Kulus</span></div>
+						<div class="cambgfronttext"><span class="planet" id="bistik">Bistik</span></div>
+						<div class="cambgfronttext"><span class="planet" id="touc">Touc</span></div>
 					</div>
 					<div class="cambgfronttextwrap">
 						<div class="cambgfronttextdist"><span>Distance from Earth</span></div>
@@ -86,6 +65,87 @@
 			</div>
 			<div class="cambtbackbtn">
 				<img src="img/back-btn.png" id="cambtbackbtn">
+			</div>
+			</div>
+			<div class="inst-main">
+				<div class="inst-game-play"></div>
+				<div class="inst-text"></div>
+				<div class="inst-game-play"></div>
+				<div class="inst-backbtn">
+					<img src="img/back-btn.png" id="inst-backbtn">
+				</div>
+			</div>
+			<div class="market-main">
+			<div class="market-customizebtn">
+					<img src="img/customize-btn.png" id="market-customizebtn">
+				</div>
+				<div class="market-backbtn">
+					<img src="img/back-btn.png" id="market-backbtn">
+				</div>
+			</div>
+			<div class="customize-main">
+				<div class="customize-rocket" id="customize-basic-rocket">
+					<div class="rocket-image">
+						<img src="./img/basic-rocket/basic-rocket.png">
+					</div>
+				</div>
+				<div class="customize-rocket" id="customize-super-rocket"></div>
+				<div class="customize-rocket" id="customize-special-rocket"></div>
+				<div class="customize-rocket" id="customize-rocket-xxl"></div>
+				<div class="customize-backbtn">
+					<img src="img/back-btn.png" id="customize-backbtn">
+				</div>
+			</div>
+			<div class="game-play-bg">
+				<div class="game-play-bg-top">
+					<div class="game-play-text">
+						<span>high score</span>
+						<div class="game-play-values">
+							<span></span>
+						</div>
+					</div>
+					<div class="game-play-text">
+						<span>coins earned</span>
+						<div class="game-play-values">
+							<span></span>
+						</div>
+					</div>
+					<div class="game-play-text">
+						<span>your score</span>
+						<div class="game-play-values">
+							<span></span>
+						</div>
+					</div>
+					<div class="game-play-text">
+						<span>planets reached</span>
+						<div class="game-play-values">
+							<span></span>
+						</div>
+					</div>
+					<div class="game-play-text">
+						<span>fuel consumed</span>
+						<div class="game-play-values">
+							<span></span>
+						</div>
+					</div>
+				</div>
+				<div class="game-play-fuel">
+					<span><p>f</p><p>u</p><p>e</p><p>l</p></span>
+				</div>
+				<div class="game-play-bg-blue">
+					<div class="enter-values">
+						<span>flight time</span>
+						<div class="flight-fuel">
+							<input type="text" name="flight-time">
+						</div>
+					</div>
+					<div class="enter-values">
+						<span>fuel needed</span>
+						<div class="flight-fuel">
+							<input type="text" name="fuel needed">
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
