@@ -39,7 +39,7 @@ body {
 }
 
 .start-button > img {
-	width: 180px;
+	width: 150px;
 	cursor:	pointer;
 }
 
@@ -112,6 +112,11 @@ li#mPlace {
 	margin-left: 8px;
 }
 
+.campaign-main {
+    float: left;
+    display: none;
+}
+
 .camText {
 	float: left;
 	position: relative;
@@ -123,7 +128,6 @@ li#mPlace {
     text-align: right;
     font-size: 15px;
     margin-top: 20px;
-    display: none;
 }
 
 .camTextLarge {
@@ -143,7 +147,6 @@ li#mPlace {
     margin-right: 125px;
     text-transform: uppercase;
     margin-top: 15px;
-    display: none;
 }
 
 .cambgback {
@@ -154,7 +157,6 @@ li#mPlace {
     height: 250px;
     margin: 0 auto;
     margin-top: 110px;
-    display: none;
 }
 
 .cambgfront {
@@ -166,12 +168,10 @@ li#mPlace {
     margin: 0 auto;
     margin-top: 110px;
     margin-right: 35px;
-    display: none;
 }
 
 .cambgfronttextwrap {
 	float: left;
-	display: none;
 }
 
 .cambgfronttext {
@@ -195,6 +195,7 @@ li#mPlace {
     font-weight: bold;
     line-height: 20px;
     padding-left: 10px;
+    cursor: pointer;
  }
 
  .cambgfronttextdist {
@@ -235,7 +236,6 @@ li#mPlace {
     color: #fff;
     font-weight: bold;
     margin-top: 15px;
-    display: none;
  }
 
  .camtextbtmsmall {
@@ -250,7 +250,6 @@ li#mPlace {
     color: #fff;
     font-weight: bold;
     margin-top: 30px;
-    display: none;
  }
 
  .camtextbtmxsmall {
@@ -264,7 +263,6 @@ li#mPlace {
     font-size: 14px;
     color: #fff;
     font-weight: bold;
-    display: none;
  }
 
 .cambtbackbtn {
@@ -280,5 +278,259 @@ li#mPlace {
     font-weight: bold;
     margin-top: 25px;
     cursor: pointer;
-    display: none;
  }
+
+.inst-main {
+    float: left;
+    display: none;
+}
+
+.inst-game-play {
+    float: left;
+    clear: left;
+    position: relative;
+    width: 380px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-image: url('../img/instructions-navigation.png');
+    background-size: 380px 200px;
+    background-repeat: no-repeat;
+}
+
+.inst-game-play:first-child {
+    margin-top: 20px;
+    margin-left: 10px;
+    background-image: url('../img/instructions-gameplay.png');
+    background-size: 380px 200px;
+    background-repeat: no-repeat;
+}
+
+.inst-text {
+    float: right;
+    width: 335px;
+    height: 407px;
+    background-image: url('../img/instructions.png');
+    background-size: 335px 407px;
+    background-repeat: no-repeat;
+    margin-top: 20px; 
+    margin-right: 10px;  
+}
+
+.inst-backbtn {
+    float: right;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.market-main {
+    display: none;
+}
+
+.market-customizebtn {
+    float: right;
+    margin-top: 300px;
+    margin-right: 17px;
+}
+
+.market-customizebtn > img {
+    cursor: pointer;
+}
+
+
+.market-backbtn {
+    position: absolute;   
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+}
+
+.market-backbtn > img {
+    float: right;
+    cursor: pointer;
+}
+
+.customize-main {
+    overflow: hidden;
+    display: none;
+}
+
+.customize-rocket {
+    float: left;
+    width: 180px;
+    height: 410px;
+    background-image: url('../img/pannel-basic-rocket.png');
+    background-size: 180px 410px;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+}
+
+.customize-rocket:first-child {
+    margin-left: 20px;
+}
+
+#customize-super-rocket {
+    background-image: url('../img/pannel-super-rocket.png');
+    background-size: 180px 410px;
+    background-repeat: no-repeat;
+}
+
+#customize-special-rocket {
+    background-image: url('../img/pannel-special-rocket.png');
+    background-size: 180px 410px;
+    background-repeat: no-repeat;
+}
+
+#customize-rocket-xxl {
+    background-image: url('../img/pannel-rocket-xxl.png');
+    background-size: 180px 410px;
+    background-repeat: no-repeat;
+}
+
+.customize-backbtn {
+    position: absolute;   
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+}
+
+.customize-backbtn > img {
+    float: right;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.game-play-bg {
+    position: relative;
+    max-width: 750px;
+    max-height: 450px;
+    height: 450px;
+    background-image: url('../img/game-play-bg-1.png');
+    background-size: 750px 450px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    display: none;
+}
+
+.game-play-bg-blue {
+    position: absolute;
+    width: 750px;
+    height: 40px;
+    background-image: url('../img/game-play-blue-bg-1.png');
+    background-size: 750px 40px;
+    background-repeat: no-repeat;
+    left: 0;
+    bottom: 0;
+}
+
+.enter-values {
+    float: left;
+    width: 130px;
+    height: 20px;
+    background-color: #88C8D4;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-transform: uppercase;
+}
+
+.enter-values:first-child {
+    margin-left: 190px;
+}
+
+.enter-values > span {
+    font-family: CaviarDreams;
+    font-size: 11px;
+    color: #1974BA;
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.flight-fuel {
+    float: right;
+    width: 50px;
+    height: 20px;
+    background-color: #1974BA;
+}
+
+.flight-fuel input[type=text] {
+    width: 50px;
+    height: 20px;
+    background-color: #1974BA;
+    border: none;
+    color: #fff;   
+}
+
+.game-play-bg-top {
+    float: right;
+    width: 215px;
+    height: 130px;
+    background-image: url('../img/game-play-bg-top.png');
+    background-size: 215px 130px;
+    background-repeat: no-repeat;
+}
+
+.game-play-text {
+    height: 25px;
+    margin-top: 2px;
+    background-color: #D8DADC;
+}
+
+.game-play-text:first-child {
+    margin-top: 0px;
+}
+
+.game-play-text > span {
+    font-family: CaviarDreams;
+    font-size: 15px;
+    color: #1974BA;
+    font-weight: bold;
+    padding-left: 5px;
+    line-height: 25px;
+    text-transform: uppercase;   
+}
+
+.game-play-values {
+    float: right;
+    width: 78px;
+    height: 25px;
+    text-align: center;
+    background-color: #B1B2B8;
+}
+
+.game-play-values > span {
+    font-family: CaviarDreams;
+    font-size: 15px;
+    color: #1974BA;
+    font-weight: bold;
+    line-height: 25px;
+}
+
+.game-play-fuel {
+    float: right;
+    height: 150px;
+    width: 25px;
+    background-color: #F58A1F;
+    font-family: CaviarDreams;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 180px;
+    margin-right: -80px;
+    border: 1px solid #000;
+}
+
+.rocket-image {
+    position: relative;
+    width: 100px;
+    height: 180px;
+    margin: 0 auto;
+    margin-top: 28px;
+    text-align: center;
+}
+
+.rocket-image > img {
+    width: 75px;
+    height: 180px;
+}
