@@ -24,7 +24,7 @@ body {
 	max-width: 750px;
 	max-height: 450px;
 	height: 450px;
-	background-image: url('../img/starfiel.gif');
+	background-image: url('../img/start-screen.jpg');
 	background-size: 750px 450px;
 	background-repeat: no-repeat;
 	overflow: hidden;
@@ -35,8 +35,7 @@ body {
 	width: 100%;
 	left: 0;
 	bottom: 0;
-	text-align: center;
-    display: none;
+	text-align: center;    
 }
 
 .start-button > img {
@@ -412,7 +411,7 @@ li#mPlace {
     background-size: 750px 450px;
     background-repeat: no-repeat;
     overflow: hidden;
-    /*display: none;*/
+    display: none;
 }
 
 .game-play-area {
@@ -558,3 +557,49 @@ li#mPlace {
     width: 75px;
     height: 180px;
 }
+
+/*custom*/
+
+#health-cell {
+	position: absolute;
+	border: solid 1px #FFFFFF;
+	width: 300px;
+	height: 20px;
+	margin: 0px; 
+	padding: 0px;
+	top: 5px;
+	left: 175px;
+}
+
+#health-bar {
+	position: absolute;
+	background-color: #FF5555;
+	margin: 0px; 
+	padding: 0px;
+	top: 1px;
+	left: 1px;
+	width: 298px;
+	height: 18px;
+}
+
+#rocket {
+	position: absolute;
+	width: 68px;
+	height: 25px;
+	margin: 0px; 
+	padding: 0px;
+	left: 20px;
+	top: 204px;
+}
+
+.asteroid {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	margin: 0px; 
+	padding: 0px;
+	/*left: 650px;
+	top: 20px;*/
+}
+
+/*ends*/
