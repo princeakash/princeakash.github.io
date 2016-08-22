@@ -24,7 +24,7 @@ body {
 	max-width: 750px;
 	max-height: 450px;
 	height: 450px;
-	background-image: url('../img/start-screen.jpg');
+	background-image: url('../img/starfiel.gif');
 	background-size: 750px 450px;
 	background-repeat: no-repeat;
 	overflow: hidden;
@@ -35,7 +35,8 @@ body {
 	width: 100%;
 	left: 0;
 	bottom: 0;
-	text-align: center;    
+	text-align: center;
+    display: none;
 }
 
 .start-button > img {
@@ -411,7 +412,7 @@ li#mPlace {
     background-size: 750px 450px;
     background-repeat: no-repeat;
     overflow: hidden;
-    display: none;
+    /*display: none;*/
 }
 
 .game-play-area {
