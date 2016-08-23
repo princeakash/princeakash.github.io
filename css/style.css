@@ -24,7 +24,7 @@ body {
 	max-width: 750px;
 	max-height: 450px;
 	height: 450px;
-	background-image: url('../img/starfiel.gif');
+	background-image: url('../img/start-screen.jpg');
 	background-size: 750px 450px;
 	background-repeat: no-repeat;
 	overflow: hidden;
@@ -36,7 +36,7 @@ body {
 	left: 0;
 	bottom: 0;
 	text-align: center;
-    display: none;
+  /*display: none;*/
 }
 
 .start-button > img {
@@ -91,7 +91,7 @@ body {
 li#explore {
 	background-image: url('../img/first-btn.png');
 	background-size: 220px 45px;
-	background-repeat: no-repeat; 
+	background-repeat: no-repeat;
 }
 
 li#cCampaign {
@@ -103,7 +103,7 @@ li#cCampaign {
 li#instructions {
 	background-image: url('../img/third-btn.png');
 	background-size: 220px 45px;
-	background-repeat: no-repeat; 
+	background-repeat: no-repeat;
 }
 
 li#mPlace {
@@ -210,7 +210,7 @@ li#mPlace {
     font-weight: bold;
     background-color: #8FCFFB;
     margin-left: 32px;
-    margin-top: 8px;	
+    margin-top: 8px;
  }
 
  .cambgfronttextdist:first-child {
@@ -314,8 +314,8 @@ li#mPlace {
     background-image: url('../img/instructions.png');
     background-size: 335px 407px;
     background-repeat: no-repeat;
-    margin-top: 20px; 
-    margin-right: 10px;  
+    margin-top: 20px;
+    margin-right: 10px;
 }
 
 .inst-backbtn {
@@ -326,6 +326,31 @@ li#mPlace {
 
 .market-main {
     display: none;
+}
+
+.market-rocket {
+    float: right;
+    width: 490px;
+    margin-top: 60px;
+    margin-right: 20px;
+}
+
+.market-rocket > img {
+    width: 490px;
+    cursor: pointer;
+}
+
+.market-rocket-assests {
+    float: left;
+    width: 190px;
+    height: 30px;
+    margin-top: 160px;
+    margin-left: 22px;
+}
+
+.market-rocket-assests > img {
+    width: 190px;
+    height: 50px;
 }
 
 .market-customizebtn {
@@ -340,7 +365,7 @@ li#mPlace {
 
 
 .market-backbtn {
-    position: absolute;   
+    position: absolute;
     width: 100%;
     left: 0;
     bottom: 0;
@@ -390,7 +415,7 @@ li#mPlace {
 }
 
 .customize-backbtn {
-    position: absolute;   
+    position: absolute;
     width: 100%;
     left: 0;
     bottom: 0;
@@ -408,11 +433,22 @@ li#mPlace {
     max-width: 750px;
     max-height: 450px;
     height: 450px;
-    background-image: url('../img/game-play-bg-1.png');
     background-size: 750px 450px;
     background-repeat: no-repeat;
-    overflow: hidden;
+    display: none;
+    z-index: 100;
+}
+
+.game-layout-image {
+    position: relative;
+    max-width: 750px;
+    max-height: 450px;
+    height: 450px;
+    background-size: 750px 450px;
+    background-repeat: no-repeat;
+    background-image: url('../img/game-play-bg-1.png');
     /*display: none;*/
+    z-index: 100;
 }
 
 .game-play-area {
@@ -422,16 +458,49 @@ li#mPlace {
     min-height: 405px;
     margin-left: 5px;
     text-align: center;
-    background-image: url('../img/starfiel.gif');
+    background-image: url('../img/starfiel.gif') repeat-x;
     background-size: 500px 405px;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
+    animation: animatedBackground 40s linear infinite;
+
+    -webkit-transform: rotate(-360deg);
+           -moz-transform: rotate(-360deg);
+            -ms-transform: rotate(-360deg);
+             -o-transform: rotate(-360deg);
 }
+
+.background, .background2, .background3, .background4, .background5 {
+	position: absolute;
+	display: inline-block;
+	height: 450px;
+	width: 750px;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.background2 {
+	bottom: 300px;
+}
+
+.background3 {
+	bottom: 600px;
+}
+
+.background4 {
+	bottom: 900px;
+}
+
+.background5 {
+	bottom: 1200px;
+}
+
 
 .game-play-area-rocket {
     position: absolute;
-    left: 0;
-    bottom: 0;
-    width: 100%;
+    left: 240px;
+    bottom: 40px;
+    width: 5%
 }
 
 .game-play-area-rocket > img {
@@ -447,6 +516,8 @@ li#mPlace {
     background-repeat: no-repeat;
     left: 0;
     bottom: 0;
+     z-index: 10;
+    overflow:visible;
 }
 
 .enter-values {
@@ -483,7 +554,7 @@ li#mPlace {
     height: 20px;
     background-color: #1974BA;
     border: none;
-    color: #fff;   
+    color: #fff;
 }
 
 .game-play-bg-top {
@@ -493,6 +564,7 @@ li#mPlace {
     background-image: url('../img/game-play-bg-top.png');
     background-size: 215px 130px;
     background-repeat: no-repeat;
+    z-index: 10
 }
 
 .game-play-text {
@@ -512,7 +584,7 @@ li#mPlace {
     font-weight: bold;
     padding-left: 5px;
     line-height: 25px;
-    text-transform: uppercase;   
+    text-transform: uppercase;
 }
 
 .game-play-values {
@@ -543,6 +615,7 @@ li#mPlace {
     margin-top: 180px;
     margin-right: -80px;
     border: 1px solid #000;
+     z-index: 10
 }
 
 .rocket-image {
@@ -561,46 +634,93 @@ li#mPlace {
 
 /*custom*/
 
-#health-cell {
-	position: absolute;
-	border: solid 1px #FFFFFF;
-	width: 300px;
-	height: 20px;
-	margin: 0px; 
-	padding: 0px;
-	top: 5px;
-	left: 175px;
-}
-
-#health-bar {
-	position: absolute;
-	background-color: #FF5555;
-	margin: 0px; 
-	padding: 0px;
-	top: 1px;
-	left: 1px;
-	width: 298px;
-	height: 18px;
-}
-
-#rocket {
-	position: absolute;
-	width: 68px;
-	height: 25px;
-	margin: 0px; 
-	padding: 0px;
-	left: 20px;
-	top: 204px;
-}
-
 .asteroid {
 	position: absolute;
 	width: 40px;
 	height: 40px;
-	margin: 0px; 
+	margin: 0px;
 	padding: 0px;
-	/*left: 650px;
-	top: 20px;*/
+	left: 650px;
+	top: 0px;
+}
+
+@-webkit-keyframes spin-right {
+    100% {
+        -webkit-transform: rotate(360deg);
+           -moz-transform: rotate(360deg);
+            -ms-transform: rotate(360deg);
+             -o-transform: rotate(360deg);
+                transform: rotate(360deg);
+    }
+}
+
+@keyframes spin-right {
+    100% {
+        -webkit-transform: rotate(360deg);
+           -moz-transform: rotate(360deg);
+            -ms-transform: rotate(360deg);
+             -o-transform: rotate(360deg);
+                transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes spin-left {
+    100% {
+        -webkit-transform: rotate(-360deg);
+           -moz-transform: rotate(-360deg);
+            -ms-transform: rotate(-360deg);
+             -o-transform: rotate(-360deg);
+                transform: rotate(-360deg);
+    }
+}
+
+@keyframes spin-left {
+    100% {
+        -webkit-transform: rotate(-360deg);
+           -moz-transform: rotate(-360deg);
+            -ms-transform: rotate(-360deg);
+             -o-transform: rotate(-360deg);
+                transform: rotate(-360deg);
+    }
+}
+
+#health-bar {
+	 position: absolute;
+    background-color: #FF5555;
+    margin: 0px;
+    padding: 0px;
+    top: 1px;
+    left: 1px;
+    width: 18px;
+    height: 298px;
+}
+
+
+
+#dist {
+	position: absolute;
+	top: 350px;
+	left: 300px;
+}
+
+.none{
+    display:none;
+}
+
+@keyframes animatedBackground {
+	from { background-position: 0 0; }
+	to { background-position: 100% 0; }
+}
+
+#health-cell {
+	position: absolute;
+	border: solid 1px #FFFFFF;
+	width: 20px;
+	height: 300px;
+	margin: 0px;
+	padding: 0px;
+	top: 50px;
+	left: 4px;
 }
 
 /*ends*/

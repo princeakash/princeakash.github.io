@@ -28,11 +28,42 @@ $(document).ready(function(e){
 		$('.home-menu').hide();
 	});
 
-	$("#market-customizebtn").click(function(e){
-		$('.gameBg').css("background-image", "url(./img/main-bg.jpg)");
-		$('.customize-main').show();
-		$('.market-main').hide();
+	$('.market-rocket > img').click(function() {
+   		var idName = $(this).attr('id');
+   		switch(idName){
+	    
+	      	case 'buy-basic-rocket':
+	     	$('.gameBg').css("background-image", "url(./img/main-bg.jpg)");
+			$('.customize-main').show();
+			$('.market-main').hide();
+		
+			break;
+
+			case 'buy-super-rocket':
+	     	$('.gameBg').css("background-image", "url(./img/main-bg.jpg)");
+			$('.customize-main').show();
+			$('.market-main').hide();
+		
+			break;
+
+			case 'buy-special-rocket':
+	     	$('.gameBg').css("background-image", "url(./img/main-bg.jpg)");
+			$('.customize-main').show();
+			$('.market-main').hide();
+		
+			break;
+
+			case 'buy-rocket-xxl':
+	     	$('.gameBg').css("background-image", "url(./img/main-bg.jpg)");
+			$('.customize-main').show();
+			$('.market-main').hide();
+		
+			break;
+   		
+   		}
 	});
+
+
 	    
 	$(".planet").click(function(e){
 		$('.gameBg').css("background-image", "url(./img/main-bg.jpg)");
