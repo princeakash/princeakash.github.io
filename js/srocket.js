@@ -66,7 +66,7 @@ $(document).ready(function(e){
 
 	    
 	$(".planet").click(function(e){
-		$('.gameBg').css("background-image", "url(./img/main-bg.jpg)");
+		$('.gameBg').css("background-image", "url(./img/starfiel.gif)");
 		$('.game-play-bg').show();
 		$('.campaign-main').hide();
 	});
@@ -104,4 +104,14 @@ $(document).keydown(function(e){
 	break;
     
     }
+});
+
+$('#ffValues').submit(function(e){
+	
+	var flightTime = $('#flight-time').val();
+	var fuelNeeded = $('#fuel-needed').val();
+	
+	console.log(flightTime);
+	console.log(fuelNeeded);
+	
 });

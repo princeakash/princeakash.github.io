@@ -4,7 +4,9 @@
 	<title>Speedy Rocket</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/slick.css"/>
 	<script src="js/jquery-3.1.0.min.js"></script>
+	<script type="text/javascript" src="js/slick.js"></script>
 	<script src="js/jquery.history.js"></script>
 	<script src="js/srocket.js"></script>
 	<script src="js/jquery.color-2.1.2.js"></script>
@@ -102,13 +104,70 @@
 			</div>
 			<div class="customize-main">
 				<div class="customize-rocket" id="customize-basic-rocket">
-					<div class="rocket-image">
-						<img src="./img/basic-rocket/basic-rocket.png">
+					<div class="rocket-image slider slider-basic">
+						<img src="./img/basic/1.png">
+						<img src="./img/basic/2.png">
+						<img src="./img/basic/3.png">
+						<img src="./img/basic/4.png">
+						<img src="./img/basic/5.png">
+						<img src="./img/basic/6.png">
+						<img src="./img/basic/7.png">
+						<img src="./img/basic/8.png">
+						<img src="./img/basic/9.png">
+						<img src="./img/basic/10.png">
+						<img src="./img/basic/11.png">
+						<img src="./img/basic/12.png">
+						<img src="./img/basic/13.png">
+						<img src="./img/basic/14.png">
+						<img src="./img/basic/15.png">
 					</div>
+					<script>$('.slider-basic').slick();</script>
 				</div>
-				<div class="customize-rocket" id="customize-super-rocket"></div>
-				<div class="customize-rocket" id="customize-special-rocket"></div>
-				<div class="customize-rocket" id="customize-rocket-xxl"></div>
+				<div class="customize-rocket" id="customize-super-rocket">
+				<div class="rocket-image slider slider-super">
+						<img src="./img/super/1.png">
+						<img src="./img/super/2.png">
+						<img src="./img/super/3.png">
+						<img src="./img/super/4.png">
+						<img src="./img/super/5.png">
+						<img src="./img/super/6.png">
+						<img src="./img/super/7.png">
+						<img src="./img/super/8.png">
+						<img src="./img/super/9.png">
+						<img src="./img/super/10.png">
+						<img src="./img/super/11.png">
+						<img src="./img/super/12.png">
+						<img src="./img/super/13.png">
+						<img src="./img/super/14.png">
+						<img src="./img/super/15.png">
+						<img src="./img/super/16.png">
+					</div>
+					<script>$('.slider-super').slick();</script>
+					</div>
+				<div class="customize-rocket" id="customize-special-rocket">
+				<div class="rocket-image slider slider-special">
+						<img src="./img/special/1.png">
+						<img src="./img/special/2.png">
+						<img src="./img/special/3.png">
+						<img src="./img/special/4.png">
+						<img src="./img/special/5.png">
+						<img src="./img/special/6.png">
+						<img src="./img/special/7.png">
+						<img src="./img/special/8.png">
+						<img src="./img/special/9.png">
+						<img src="./img/special/10.png">
+					</div>
+					<script>$('.slider-special').slick();</script>
+				</div>
+				<div class="customize-rocket" id="customize-rocket-xxl">
+				<div class="rocket-image slider slider-xxl">
+						<img src="./img/xxl/1.png">
+						<img src="./img/xxl/2.png">
+						<img src="./img/xxl/3.png">
+						<img src="./img/xxl/4.png">
+					</div>
+					<script>$('.slider-xxl').slick();</script>
+				</div>
 				<div class="customize-backbtn">
 					<img src="img/back-btn.png" id="customize-backbtn">
 				</div>
@@ -119,7 +178,7 @@
 		 <img class='background3' src='img/starfiel.gif'></img>
 		 <img class='background4' src='img/starfiel.gif'></img>
 		 <img class='background5' src='img/starfiel.gif'></img>
-							 <div class="game-play-area-rocket"> <img id="rocket" src="./img/basic-rocket/basic-rocket.png"> </div>
+							 <div class="game-play-area-rocket"> <img id="rocket" src="./img/basic/1.png"> </div>
 							 <div id="health-cell"><div id="health-bar"></div></div>
 							 <div class="game-layout-image">
 									 <div class="game-play-bg-top">
@@ -141,13 +200,21 @@
 							 </div>
 							 <div class="game-play-fuel"> <span><p>f</p><p>u</p><p>e</p><p>l</p></span> </div>
 							 <div class="game-play-bg-blue">
+									<form id="ffValues" method="post">
 									 <div class="enter-values"> <span>flight time</span>
 											 <div class="flight-fuel">
-													 <input type="text" name="flight-time"> </div>
+													 <input type="text" name="flight-time" id="flight-time"> </div>
 									 </div>
 									 <div class="enter-values"> <span>fuel needed</span>
 											 <div class="flight-fuel">
-													 <input type="text" name="fuel needed"> </div>
+													 <input type="text" name="fuel-needed" id="fuel-needed"> </div>
+									 </div>
+									  <div class="enter-values">
+									  
+									  <input type="submit" value="submit">
+									  
+									  </div>
+									  </form>
 									 </div>
 							 </div>
 							 </div>

@@ -10,6 +10,10 @@ var speed = 1
 //var speed = 0.1
     , dist = 0
     , k = 0;
+	
+	
+function runRocket() {
+
 $(document).ready(function () {
     window.onunload = function () {
         unload();
@@ -348,4 +352,6 @@ function Box(xo, yo, width, height) {
         return !(entity.position.top > pos.top + yo + this.height || entity.position.top + entity.height < pos.top + yo || entity.position.left > pos.left + xo + this.width || entity.position.left + entity.width < pos.left + xo);
         //return false;
     };
+}
+
 }
