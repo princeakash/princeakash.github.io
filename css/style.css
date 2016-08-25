@@ -447,7 +447,7 @@ li#mPlace {
     background-size: 750px 450px;
     background-repeat: no-repeat;
     background-image: url('../img/game-play-bg-1.png');
-    /*display: none;*/  	 
+    /*display: none;*/
     z-index: 100;
 }
 
