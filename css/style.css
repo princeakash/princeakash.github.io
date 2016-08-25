@@ -379,7 +379,7 @@ li#mPlace {
 
 .customize-main {
     overflow: hidden;
-    /*display: none;*/
+    display: none;
 }
 
 .customize-rocket {
