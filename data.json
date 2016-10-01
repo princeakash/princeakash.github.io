@@ -1,0 +1,3187 @@
+[
+  {
+    "date": "3/18/14",
+    "price_1": 99.03,
+    "price_2": 173.5,
+    "price_3": 94.78,
+    "full": "0.9645"
+  },
+  {
+    "date": "3/19/14",
+    "price_1": 99.03,
+    "price_2": 173.5,
+    "price_3": 94.78,
+    "full": "0.9130"
+  },
+  {
+    "date": "3/20/14",
+    "price_1": 107.95,
+    "price_2": 121,
+    "price_3": 94.78,
+    "full": "0.6345"
+  },
+  {
+    "date": "3/21/14",
+    "price_1": 99.03,
+    "price_2": null,
+    "price_3": 94.78,
+    "full": "0.6963"
+  },
+  {
+    "date": "3/22/14",
+    "price_1": 99.03,
+    "price_2": 121.67,
+    "price_3": 94.78,
+    "full": "0.6970"
+  },
+  {
+    "date": "3/23/14",
+    "price_1": 99.03,
+    "price_2": 121.67,
+    "price_3": 94.78,
+    "full": "0.7362"
+  },
+  {
+    "date": "3/24/14",
+    "price_1": 107.95,
+    "price_2": 105,
+    "price_3": 94.78,
+    "full": "0.8712"
+  },
+  {
+    "date": "3/25/14",
+    "price_1": 116.5,
+    "price_2": 105,
+    "price_3": 94.78,
+    "full": "1.0738"
+  },
+  {
+    "date": "3/26/14",
+    "price_1": 116.5,
+    "price_2": 105,
+    "price_3": 94.78,
+    "full": "0.8181"
+  },
+  {
+    "date": "3/27/14",
+    "price_1": 116.5,
+    "price_2": 124.67,
+    "price_3": 94.78,
+    "full": "1.0207"
+  },
+  {
+    "date": "3/28/14",
+    "price_1": 116.5,
+    "price_2": 124.67,
+    "price_3": 102.95,
+    "full": "0.9153"
+  },
+  {
+    "date": "3/29/14",
+    "price_1": 107.95,
+    "price_2": 124.67,
+    "price_3": 102.95,
+    "full": "1.0396"
+  },
+  {
+    "date": "3/30/14",
+    "price_1": 107.95,
+    "price_2": 124.67,
+    "price_3": 102.95,
+    "full": "0.8055"
+  },
+  {
+    "date": "3/31/14",
+    "price_1": 107.95,
+    "price_2": null,
+    "price_3": 102.95,
+    "full": "0.6073"
+  },
+  {
+    "date": "4/1/14",
+    "price_1": 107.95,
+    "price_2": 117.33,
+    "price_3": 102.95,
+    "full": "0.9683"
+  },
+  {
+    "date": "4/2/14",
+    "price_1": 107.95,
+    "price_2": null,
+    "price_3": 102.95,
+    "full": "0.8339"
+  },
+  {
+    "date": "4/3/14",
+    "price_1": 107.95,
+    "price_2": null,
+    "price_3": 102.95,
+    "full": "0.6598"
+  },
+  {
+    "date": "4/4/14",
+    "price_1": 107.95,
+    "price_2": null,
+    "price_3": 94.78,
+    "full": "1.0911"
+  },
+  {
+    "date": "4/5/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 102.95,
+    "full": "1.0114"
+  },
+  {
+    "date": "4/6/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 102.95,
+    "full": "0.7940"
+  },
+  {
+    "date": "4/7/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 102.95,
+    "full": "0.9425"
+  },
+  {
+    "date": "4/8/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 111.5,
+    "full": "0.6137"
+  },
+  {
+    "date": "4/9/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 111.5,
+    "full": "0.9150"
+  },
+  {
+    "date": "4/10/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 111.5,
+    "full": "0.8045"
+  },
+  {
+    "date": "4/11/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 111.5,
+    "full": "1.0519"
+  },
+  {
+    "date": "4/12/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 111.5,
+    "full": "0.7469"
+  },
+  {
+    "date": "4/13/14",
+    "price_1": 121.5,
+    "price_2": null,
+    "price_3": 111.5,
+    "full": "0.9718"
+  },
+  {
+    "date": "4/14/14",
+    "price_1": 121.5,
+    "price_2": null,
+    "price_3": 111.5,
+    "full": "0.8525"
+  },
+  {
+    "date": "4/15/14",
+    "price_1": 121.5,
+    "price_2": null,
+    "price_3": 111.5,
+    "full": "0.8300"
+  },
+  {
+    "date": "4/16/14",
+    "price_1": 121.5,
+    "price_2": null,
+    "price_3": 111.5,
+    "full": "0.8770"
+  },
+  {
+    "date": "4/17/14",
+    "price_1": 121.5,
+    "price_2": null,
+    "price_3": 111.5,
+    "full": "0.8630"
+  },
+  {
+    "date": "4/18/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 111.5,
+    "full": "0.7572"
+  },
+  {
+    "date": "4/19/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 94.78,
+    "full": "0.9348"
+  },
+  {
+    "date": "4/20/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 94.78,
+    "full": "0.8334"
+  },
+  {
+    "date": "4/21/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 94.78,
+    "full": "0.9432"
+  },
+  {
+    "date": "4/22/14",
+    "price_1": 121.5,
+    "price_2": null,
+    "price_3": 94.78,
+    "full": "1.0348"
+  },
+  {
+    "date": "4/23/14",
+    "price_1": 121.5,
+    "price_2": null,
+    "price_3": 94.78,
+    "full": "0.6304"
+  },
+  {
+    "date": "4/24/14",
+    "price_1": 121.5,
+    "price_2": null,
+    "price_3": 103.33,
+    "full": "0.7078"
+  },
+  {
+    "date": "4/25/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 103.33,
+    "full": "0.8912"
+  },
+  {
+    "date": "4/26/14",
+    "price_1": 116.28,
+    "price_2": null,
+    "price_3": 103.33,
+    "full": "0.6250"
+  },
+  {
+    "date": "4/27/14",
+    "price_1": 116.28,
+    "price_2": null,
+    "price_3": 103.33,
+    "full": "0.6989"
+  },
+  {
+    "date": "4/28/14",
+    "price_1": 116.28,
+    "price_2": null,
+    "price_3": 103.33,
+    "full": "0.9279"
+  },
+  {
+    "date": "4/29/14",
+    "price_1": 116.28,
+    "price_2": null,
+    "price_3": 103.33,
+    "full": "0.9863"
+  },
+  {
+    "date": "4/30/14",
+    "price_1": 116.28,
+    "price_2": null,
+    "price_3": 103.33,
+    "full": "0.9084"
+  },
+  {
+    "date": "5/1/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 101.48,
+    "full": "0.9770"
+  },
+  {
+    "date": "5/2/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 101.48,
+    "full": "0.9081"
+  },
+  {
+    "date": "5/3/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 101.48,
+    "full": "0.8664"
+  },
+  {
+    "date": "5/4/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 101.48,
+    "full": "0.8919"
+  },
+  {
+    "date": "5/5/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 101.48,
+    "full": "0.8834"
+  },
+  {
+    "date": "5/6/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 101.48,
+    "full": "0.9883"
+  },
+  {
+    "date": "5/7/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 101.48,
+    "full": "0.8174"
+  },
+  {
+    "date": "5/8/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 101.48,
+    "full": "0.9141"
+  },
+  {
+    "date": "5/9/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 93.08,
+    "full": "0.6363"
+  },
+  {
+    "date": "5/10/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 93.08,
+    "full": "1.0515"
+  },
+  {
+    "date": "5/11/14",
+    "price_1": 112.58,
+    "price_2": null,
+    "price_3": 93.08,
+    "full": "0.7397"
+  },
+  {
+    "date": "5/12/14",
+    "price_1": 115.55,
+    "price_2": null,
+    "price_3": 98.55,
+    "full": "0.8758"
+  },
+  {
+    "date": "5/13/14",
+    "price_1": 115.55,
+    "price_2": null,
+    "price_3": 104.15,
+    "full": "1.0503"
+  },
+  {
+    "date": "5/14/14",
+    "price_1": 115.55,
+    "price_2": null,
+    "price_3": 104.15,
+    "full": "0.6294"
+  },
+  {
+    "date": "5/15/14",
+    "price_1": 115.55,
+    "price_2": null,
+    "price_3": 104.15,
+    "full": "1.0519"
+  },
+  {
+    "date": "5/16/14",
+    "price_1": 115.55,
+    "price_2": null,
+    "price_3": 104.15,
+    "full": "0.7226"
+  },
+  {
+    "date": "5/17/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 105.55,
+    "full": "0.7254"
+  },
+  {
+    "date": "5/18/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 105.55,
+    "full": "0.6020"
+  },
+  {
+    "date": "5/19/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 105.55,
+    "full": "0.7110"
+  },
+  {
+    "date": "5/20/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 97.08,
+    "full": "0.6984"
+  },
+  {
+    "date": "5/21/14",
+    "price_1": 123.5,
+    "price_2": null,
+    "price_3": 102.83,
+    "full": "1.0033"
+  },
+  {
+    "date": "5/22/14",
+    "price_1": 117.2,
+    "price_2": null,
+    "price_3": 111,
+    "full": "0.7138"
+  },
+  {
+    "date": "5/23/14",
+    "price_1": 117.2,
+    "price_2": null,
+    "price_3": 111,
+    "full": "0.9061"
+  },
+  {
+    "date": "5/24/14",
+    "price_1": 123.5,
+    "price_2": null,
+    "price_3": 109,
+    "full": "0.6644"
+  },
+  {
+    "date": "5/25/14",
+    "price_1": 123.5,
+    "price_2": null,
+    "price_3": null,
+    "full": "1.0073"
+  },
+  {
+    "date": "5/26/14",
+    "price_1": 123.5,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.7932"
+  },
+  {
+    "date": "5/27/14",
+    "price_1": 123.5,
+    "price_2": null,
+    "price_3": 109,
+    "full": "0.6232"
+  },
+  {
+    "date": "5/28/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 109,
+    "full": "0.6107"
+  },
+  {
+    "date": "5/29/14",
+    "price_1": 123.5,
+    "price_2": null,
+    "price_3": 98.1,
+    "full": "0.9737"
+  },
+  {
+    "date": "5/30/14",
+    "price_1": 123.5,
+    "price_2": null,
+    "price_3": 111,
+    "full": "0.6061"
+  },
+  {
+    "date": "5/31/14",
+    "price_1": 117.2,
+    "price_2": null,
+    "price_3": 112.5,
+    "full": "1.0760"
+  },
+  {
+    "date": "6/1/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 110,
+    "full": "1.0300"
+  },
+  {
+    "date": "6/2/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 110,
+    "full": "0.9603"
+  },
+  {
+    "date": "6/3/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 110,
+    "full": "1.0606"
+  },
+  {
+    "date": "6/4/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 110,
+    "full": "0.9993"
+  },
+  {
+    "date": "6/5/14",
+    "price_1": 111.15,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.8129"
+  },
+  {
+    "date": "6/6/14",
+    "price_1": 111.15,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.8425"
+  },
+  {
+    "date": "6/7/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "1.0364"
+  },
+  {
+    "date": "6/8/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "1.0876"
+  },
+  {
+    "date": "6/9/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.8923"
+  },
+  {
+    "date": "6/10/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 110,
+    "full": "0.9992"
+  },
+  {
+    "date": "6/11/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 110,
+    "full": "1.0786"
+  },
+  {
+    "date": "6/12/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.7777"
+  },
+  {
+    "date": "6/13/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "1.0349"
+  },
+  {
+    "date": "6/14/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.8346"
+  },
+  {
+    "date": "6/15/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.9336"
+  },
+  {
+    "date": "6/16/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.6569"
+  },
+  {
+    "date": "6/17/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.7525"
+  },
+  {
+    "date": "6/18/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.8715"
+  },
+  {
+    "date": "6/19/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.6952"
+  },
+  {
+    "date": "6/20/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.7852"
+  },
+  {
+    "date": "6/21/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.7605"
+  },
+  {
+    "date": "6/22/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 107,
+    "full": "0.8622"
+  },
+  {
+    "date": "6/23/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 107,
+    "full": "0.7634"
+  },
+  {
+    "date": "6/24/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 107,
+    "full": "0.9388"
+  },
+  {
+    "date": "6/25/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.7841"
+  },
+  {
+    "date": "6/26/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "1.0614"
+  },
+  {
+    "date": "6/27/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.6858"
+  },
+  {
+    "date": "6/28/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "1.0689"
+  },
+  {
+    "date": "6/29/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.6192"
+  },
+  {
+    "date": "6/30/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.6526"
+  },
+  {
+    "date": "7/1/14",
+    "price_1": 111.15,
+    "price_2": null,
+    "price_3": 99,
+    "full": "1.0644"
+  },
+  {
+    "date": "7/2/14",
+    "price_1": 111.15,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.9291"
+  },
+  {
+    "date": "7/3/14",
+    "price_1": 111.15,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.8287"
+  },
+  {
+    "date": "7/4/14",
+    "price_1": 111.15,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.6572"
+  },
+  {
+    "date": "7/5/14",
+    "price_1": 111.15,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.6757"
+  },
+  {
+    "date": "7/6/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.6319"
+  },
+  {
+    "date": "7/7/14",
+    "price_1": 117.45,
+    "price_2": null,
+    "price_3": 99,
+    "full": "0.7740"
+  },
+  {
+    "date": "7/8/14",
+    "price_1": 117.45,
+    "price_2": 184,
+    "price_3": 99,
+    "full": "0.7022"
+  },
+  {
+    "date": "7/9/14",
+    "price_1": 117.45,
+    "price_2": 184,
+    "price_3": 99,
+    "full": "0.8996"
+  },
+  {
+    "date": "7/10/14",
+    "price_1": 117.45,
+    "price_2": 192,
+    "price_3": 99,
+    "full": "0.6312"
+  },
+  {
+    "date": "7/11/14",
+    "price_1": 117.45,
+    "price_2": 192,
+    "price_3": 99,
+    "full": "0.9713"
+  },
+  {
+    "date": "7/12/14",
+    "price_1": 117.45,
+    "price_2": 192,
+    "price_3": 99,
+    "full": "0.8020"
+  },
+  {
+    "date": "7/13/14",
+    "price_1": 117.45,
+    "price_2": 192,
+    "price_3": 99,
+    "full": "1.0389"
+  },
+  {
+    "date": "7/14/14",
+    "price_1": 117.45,
+    "price_2": 192,
+    "price_3": 99,
+    "full": "1.0428"
+  },
+  {
+    "date": "7/15/14",
+    "price_1": 117.45,
+    "price_2": 192,
+    "price_3": 99,
+    "full": "0.9368"
+  },
+  {
+    "date": "7/16/14",
+    "price_1": 117.45,
+    "price_2": 195,
+    "price_3": 99,
+    "full": "0.9705"
+  },
+  {
+    "date": "7/17/14",
+    "price_1": 111.15,
+    "price_2": 195,
+    "price_3": 99,
+    "full": "0.6840"
+  },
+  {
+    "date": "7/18/14",
+    "price_1": 111.15,
+    "price_2": 195,
+    "price_3": 99,
+    "full": "0.6620"
+  },
+  {
+    "date": "7/19/14",
+    "price_1": 111.15,
+    "price_2": 208.5,
+    "price_3": 99,
+    "full": "0.8570"
+  },
+  {
+    "date": "7/20/14",
+    "price_1": 111.15,
+    "price_2": 208.5,
+    "price_3": 99,
+    "full": "0.6463"
+  },
+  {
+    "date": "7/21/14",
+    "price_1": 111.15,
+    "price_2": 208.5,
+    "price_3": 99,
+    "full": "0.6917"
+  },
+  {
+    "date": "7/22/14",
+    "price_1": 111.15,
+    "price_2": 208.5,
+    "price_3": 99,
+    "full": "0.7435"
+  },
+  {
+    "date": "7/23/14",
+    "price_1": 111.15,
+    "price_2": 193,
+    "price_3": 99,
+    "full": "0.7805"
+  },
+  {
+    "date": "7/24/14",
+    "price_1": 111.15,
+    "price_2": 193,
+    "price_3": 99,
+    "full": "0.8868"
+  },
+  {
+    "date": "7/25/14",
+    "price_1": 111.15,
+    "price_2": 193,
+    "price_3": 99,
+    "full": "1.0040"
+  },
+  {
+    "date": "7/26/14",
+    "price_1": 111.15,
+    "price_2": 193,
+    "price_3": 99,
+    "full": "1.0994"
+  },
+  {
+    "date": "7/27/14",
+    "price_1": 111.15,
+    "price_2": 193,
+    "price_3": 99,
+    "full": "0.7691"
+  },
+  {
+    "date": "7/28/14",
+    "price_1": 111.15,
+    "price_2": 193,
+    "price_3": 99,
+    "full": "0.9730"
+  },
+  {
+    "date": "7/29/14",
+    "price_1": 111.15,
+    "price_2": 193,
+    "price_3": 99,
+    "full": "1.0707"
+  },
+  {
+    "date": "7/30/14",
+    "price_1": 111.15,
+    "price_2": 195,
+    "price_3": 99,
+    "full": "1.0285"
+  },
+  {
+    "date": "7/31/14",
+    "price_1": 117.45,
+    "price_2": 195,
+    "price_3": 99,
+    "full": "0.7141"
+  },
+  {
+    "date": "8/1/14",
+    "price_1": 117.45,
+    "price_2": 195,
+    "price_3": 99,
+    "full": "0.8501"
+  },
+  {
+    "date": "8/2/14",
+    "price_1": 117.45,
+    "price_2": 189,
+    "price_3": 99,
+    "full": "0.7409"
+  },
+  {
+    "date": "8/3/14",
+    "price_1": 111.15,
+    "price_2": 198,
+    "price_3": 99,
+    "full": "1.0053"
+  },
+  {
+    "date": "8/4/14",
+    "price_1": 111.15,
+    "price_2": 198,
+    "price_3": 99,
+    "full": "0.8018"
+  },
+  {
+    "date": "8/5/14",
+    "price_1": 111.15,
+    "price_2": 169.5,
+    "price_3": 99,
+    "full": "0.9854"
+  },
+  {
+    "date": "8/6/14",
+    "price_1": 111.15,
+    "price_2": 169.5,
+    "price_3": 99,
+    "full": "0.7838"
+  },
+  {
+    "date": "8/7/14",
+    "price_1": 111.15,
+    "price_2": 169.5,
+    "price_3": 99,
+    "full": "0.6780"
+  },
+  {
+    "date": "8/8/14",
+    "price_1": 111.15,
+    "price_2": 169.5,
+    "price_3": 99,
+    "full": "0.8192"
+  },
+  {
+    "date": "8/9/14",
+    "price_1": 111.15,
+    "price_2": 169,
+    "price_3": 99.9,
+    "full": "0.6752"
+  },
+  {
+    "date": "8/10/14",
+    "price_1": 111.15,
+    "price_2": 162,
+    "price_3": 99.9,
+    "full": "0.6886"
+  },
+  {
+    "date": "8/11/14",
+    "price_1": 111.15,
+    "price_2": 162,
+    "price_3": 99.9,
+    "full": "0.8770"
+  },
+  {
+    "date": "8/12/14",
+    "price_1": 111.15,
+    "price_2": 162,
+    "price_3": 99.9,
+    "full": "0.8281"
+  },
+  {
+    "date": "8/13/14",
+    "price_1": 111.15,
+    "price_2": 162,
+    "price_3": 99.9,
+    "full": "1.0627"
+  },
+  {
+    "date": "8/14/14",
+    "price_1": 111.15,
+    "price_2": 169.5,
+    "price_3": 99.9,
+    "full": "0.7940"
+  },
+  {
+    "date": "8/15/14",
+    "price_1": 111.15,
+    "price_2": 169.5,
+    "price_3": 99.9,
+    "full": "0.8619"
+  },
+  {
+    "date": "8/16/14",
+    "price_1": 111.15,
+    "price_2": 162,
+    "price_3": 99.9,
+    "full": "1.0993"
+  },
+  {
+    "date": "8/17/14",
+    "price_1": 111.15,
+    "price_2": 162,
+    "price_3": 99.9,
+    "full": "0.9383"
+  },
+  {
+    "date": "8/18/14",
+    "price_1": 111.15,
+    "price_2": 162,
+    "price_3": 99.9,
+    "full": "0.8983"
+  },
+  {
+    "date": "8/19/14",
+    "price_1": 111.15,
+    "price_2": 162,
+    "price_3": 99.9,
+    "full": "1.0367"
+  },
+  {
+    "date": "8/20/14",
+    "price_1": 111.15,
+    "price_2": 180,
+    "price_3": 99.9,
+    "full": "0.8784"
+  },
+  {
+    "date": "8/21/14",
+    "price_1": 111.15,
+    "price_2": 180,
+    "price_3": 99.9,
+    "full": "0.7000"
+  },
+  {
+    "date": "8/22/14",
+    "price_1": 111.15,
+    "price_2": 180,
+    "price_3": 99.9,
+    "full": "0.9551"
+  },
+  {
+    "date": "8/23/14",
+    "price_1": 111.15,
+    "price_2": 189,
+    "price_3": 99.9,
+    "full": "0.7331"
+  },
+  {
+    "date": "8/24/14",
+    "price_1": 111.15,
+    "price_2": 189,
+    "price_3": 99.9,
+    "full": "0.8583"
+  },
+  {
+    "date": "8/25/14",
+    "price_1": 111.15,
+    "price_2": 189,
+    "price_3": 99.9,
+    "full": "1.0521"
+  },
+  {
+    "date": "8/26/14",
+    "price_1": 111.15,
+    "price_2": 189,
+    "price_3": 99.9,
+    "full": "0.6680"
+  },
+  {
+    "date": "8/27/14",
+    "price_1": 111.15,
+    "price_2": 201,
+    "price_3": 99.9,
+    "full": "0.7940"
+  },
+  {
+    "date": "8/28/14",
+    "price_1": 111.15,
+    "price_2": 210.5,
+    "price_3": 99.9,
+    "full": "0.9935"
+  },
+  {
+    "date": "8/29/14",
+    "price_1": 111.15,
+    "price_2": 210.5,
+    "price_3": 99.9,
+    "full": "0.6474"
+  },
+  {
+    "date": "8/30/14",
+    "price_1": 111.15,
+    "price_2": 210.5,
+    "price_3": 99.9,
+    "full": "1.0544"
+  },
+  {
+    "date": "8/31/14",
+    "price_1": 111.15,
+    "price_2": 210.5,
+    "price_3": 99.9,
+    "full": "0.6560"
+  },
+  {
+    "date": "9/1/14",
+    "price_1": 111.15,
+    "price_2": 210.5,
+    "price_3": 99.9,
+    "full": "0.6186"
+  },
+  {
+    "date": "9/2/14",
+    "price_1": 111.15,
+    "price_2": 210.5,
+    "price_3": 99.9,
+    "full": "0.6320"
+  },
+  {
+    "date": "9/3/14",
+    "price_1": 111.15,
+    "price_2": 210.5,
+    "price_3": 99.9,
+    "full": "0.6766"
+  },
+  {
+    "date": "9/4/14",
+    "price_1": 111.15,
+    "price_2": null,
+    "price_3": 99.9,
+    "full": "0.6059"
+  },
+  {
+    "date": "9/5/14",
+    "price_1": 111.15,
+    "price_2": 209,
+    "price_3": 99.9,
+    "full": "0.7256"
+  },
+  {
+    "date": "9/6/14",
+    "price_1": 112.95,
+    "price_2": 208,
+    "price_3": 102.6,
+    "full": "1.0770"
+  },
+  {
+    "date": "9/7/14",
+    "price_1": 112.95,
+    "price_2": 208,
+    "price_3": 102.6,
+    "full": "1.0624"
+  },
+  {
+    "date": "9/8/14",
+    "price_1": 112.95,
+    "price_2": 208,
+    "price_3": 102.6,
+    "full": "1.0677"
+  },
+  {
+    "date": "9/9/14",
+    "price_1": 112.95,
+    "price_2": 208,
+    "price_3": 102.6,
+    "full": "0.9827"
+  },
+  {
+    "date": "9/10/14",
+    "price_1": 112.95,
+    "price_2": 212.5,
+    "price_3": 102.6,
+    "full": "1.0577"
+  },
+  {
+    "date": "9/11/14",
+    "price_1": 112.95,
+    "price_2": 212.5,
+    "price_3": 102.6,
+    "full": "0.7034"
+  },
+  {
+    "date": "9/12/14",
+    "price_1": 112.95,
+    "price_2": 207,
+    "price_3": 102.6,
+    "full": "0.7138"
+  },
+  {
+    "date": "9/13/14",
+    "price_1": 112.95,
+    "price_2": 198,
+    "price_3": 102.6,
+    "full": "0.9840"
+  },
+  {
+    "date": "9/14/14",
+    "price_1": 112.95,
+    "price_2": 198,
+    "price_3": 102.6,
+    "full": "0.6372"
+  },
+  {
+    "date": "9/15/14",
+    "price_1": 112.95,
+    "price_2": 198,
+    "price_3": 102.6,
+    "full": "0.8034"
+  },
+  {
+    "date": "9/16/14",
+    "price_1": 112.95,
+    "price_2": 198,
+    "price_3": 102.6,
+    "full": "0.6307"
+  },
+  {
+    "date": "9/17/14",
+    "price_1": 112.95,
+    "price_2": 195,
+    "price_3": 102.6,
+    "full": "0.8317"
+  },
+  {
+    "date": "9/18/14",
+    "price_1": 112.95,
+    "price_2": 195,
+    "price_3": 102.6,
+    "full": "0.8138"
+  },
+  {
+    "date": "9/19/14",
+    "price_1": 112.95,
+    "price_2": 195,
+    "price_3": 102.6,
+    "full": "0.9513"
+  },
+  {
+    "date": "9/20/14",
+    "price_1": 112.95,
+    "price_2": 173,
+    "price_3": 102.6,
+    "full": "0.9616"
+  },
+  {
+    "date": "9/21/14",
+    "price_1": 112.95,
+    "price_2": 173,
+    "price_3": 102.6,
+    "full": "0.8640"
+  },
+  {
+    "date": "9/22/14",
+    "price_1": 112.95,
+    "price_2": 173,
+    "price_3": 102.6,
+    "full": "1.0987"
+  },
+  {
+    "date": "9/23/14",
+    "price_1": 112.95,
+    "price_2": 173,
+    "price_3": 102.6,
+    "full": "0.8605"
+  },
+  {
+    "date": "9/24/14",
+    "price_1": 112.95,
+    "price_2": 130,
+    "price_3": 102.6,
+    "full": "0.7327"
+  },
+  {
+    "date": "9/25/14",
+    "price_1": 112.95,
+    "price_2": 136.5,
+    "price_3": 102.6,
+    "full": "0.9787"
+  },
+  {
+    "date": "9/26/14",
+    "price_1": 112.95,
+    "price_2": 136.5,
+    "price_3": 102.6,
+    "full": "0.8888"
+  },
+  {
+    "date": "9/27/14",
+    "price_1": 112.95,
+    "price_2": 136.5,
+    "price_3": 100.8,
+    "full": "0.7986"
+  },
+  {
+    "date": "9/28/14",
+    "price_1": null,
+    "price_2": 136.5,
+    "price_3": null,
+    "full": "0.7256"
+  },
+  {
+    "date": "9/29/14",
+    "price_1": null,
+    "price_2": 136.5,
+    "price_3": null,
+    "full": "0.8504"
+  },
+  {
+    "date": "9/30/14",
+    "price_1": null,
+    "price_2": 136.5,
+    "price_3": null,
+    "full": "0.6979"
+  },
+  {
+    "date": "10/1/14",
+    "price_1": null,
+    "price_2": 136.5,
+    "price_3": null,
+    "full": "0.9859"
+  },
+  {
+    "date": "10/2/14",
+    "price_1": null,
+    "price_2": 140.5,
+    "price_3": null,
+    "full": "0.9708"
+  },
+  {
+    "date": "10/3/14",
+    "price_1": null,
+    "price_2": 140.5,
+    "price_3": null,
+    "full": "1.0794"
+  },
+  {
+    "date": "10/4/14",
+    "price_1": null,
+    "price_2": 140.5,
+    "price_3": null,
+    "full": "0.8460"
+  },
+  {
+    "date": "10/5/14",
+    "price_1": null,
+    "price_2": 140.5,
+    "price_3": null,
+    "full": "1.0850"
+  },
+  {
+    "date": "10/6/14",
+    "price_1": null,
+    "price_2": 135,
+    "price_3": null,
+    "full": "0.8728"
+  },
+  {
+    "date": "10/7/14",
+    "price_1": null,
+    "price_2": 135,
+    "price_3": null,
+    "full": "0.8093"
+  },
+  {
+    "date": "10/8/14",
+    "price_1": null,
+    "price_2": 149,
+    "price_3": null,
+    "full": "0.9284"
+  },
+  {
+    "date": "10/9/14",
+    "price_1": null,
+    "price_2": 149,
+    "price_3": null,
+    "full": "0.6263"
+  },
+  {
+    "date": "10/10/14",
+    "price_1": null,
+    "price_2": 149,
+    "price_3": null,
+    "full": "0.8806"
+  },
+  {
+    "date": "10/11/14",
+    "price_1": null,
+    "price_2": 149,
+    "price_3": null,
+    "full": "0.9446"
+  },
+  {
+    "date": "10/12/14",
+    "price_1": null,
+    "price_2": 149,
+    "price_3": null,
+    "full": "0.7051"
+  },
+  {
+    "date": "10/13/14",
+    "price_1": null,
+    "price_2": 149,
+    "price_3": null,
+    "full": "0.6410"
+  },
+  {
+    "date": "10/14/14",
+    "price_1": null,
+    "price_2": 149,
+    "price_3": null,
+    "full": "0.6133"
+  },
+  {
+    "date": "10/15/14",
+    "price_1": null,
+    "price_2": 141.5,
+    "price_3": null,
+    "full": "1.0245"
+  },
+  {
+    "date": "10/16/14",
+    "price_1": null,
+    "price_2": 141.5,
+    "price_3": null,
+    "full": "0.6309"
+  },
+  {
+    "date": "10/17/14",
+    "price_1": null,
+    "price_2": 141.5,
+    "price_3": null,
+    "full": "0.8250"
+  },
+  {
+    "date": "10/18/14",
+    "price_1": null,
+    "price_2": 141.5,
+    "price_3": null,
+    "full": "0.8523"
+  },
+  {
+    "date": "10/19/14",
+    "price_1": null,
+    "price_2": 141.5,
+    "price_3": null,
+    "full": "0.6069"
+  },
+  {
+    "date": "10/20/14",
+    "price_1": null,
+    "price_2": 141.5,
+    "price_3": null,
+    "full": "1.0246"
+  },
+  {
+    "date": "10/21/14",
+    "price_1": null,
+    "price_2": 141.5,
+    "price_3": null,
+    "full": "0.8879"
+  },
+  {
+    "date": "10/22/14",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.9777"
+  },
+  {
+    "date": "10/23/14",
+    "price_1": null,
+    "price_2": 106,
+    "price_3": null,
+    "full": "1.0240"
+  },
+  {
+    "date": "10/24/14",
+    "price_1": null,
+    "price_2": 106,
+    "price_3": null,
+    "full": "0.7552"
+  },
+  {
+    "date": "10/25/14",
+    "price_1": null,
+    "price_2": 106,
+    "price_3": null,
+    "full": "0.7964"
+  },
+  {
+    "date": "10/26/14",
+    "price_1": null,
+    "price_2": 106,
+    "price_3": null,
+    "full": "0.7181"
+  },
+  {
+    "date": "10/27/14",
+    "price_1": 111.15,
+    "price_2": 99,
+    "price_3": 97.2,
+    "full": "0.8164"
+  },
+  {
+    "date": "10/28/14",
+    "price_1": null,
+    "price_2": 99,
+    "price_3": null,
+    "full": "0.8438"
+  },
+  {
+    "date": "10/29/14",
+    "price_1": null,
+    "price_2": 99,
+    "price_3": null,
+    "full": "0.7724"
+  },
+  {
+    "date": "10/30/14",
+    "price_1": 111.15,
+    "price_2": 91.5,
+    "price_3": 97.2,
+    "full": "0.8563"
+  },
+  {
+    "date": "10/31/14",
+    "price_1": null,
+    "price_2": 91.5,
+    "price_3": null,
+    "full": "0.9420"
+  },
+  {
+    "date": "11/1/14",
+    "price_1": null,
+    "price_2": 88.5,
+    "price_3": null,
+    "full": "0.6830"
+  },
+  {
+    "date": "11/2/14",
+    "price_1": null,
+    "price_2": 94.5,
+    "price_3": null,
+    "full": "0.7918"
+  },
+  {
+    "date": "11/3/14",
+    "price_1": 111.15,
+    "price_2": 94.5,
+    "price_3": 97.2,
+    "full": "0.9708"
+  },
+  {
+    "date": "11/4/14",
+    "price_1": 111.15,
+    "price_2": 94.5,
+    "price_3": 97.2,
+    "full": "0.6014"
+  },
+  {
+    "date": "11/5/14",
+    "price_1": 111.15,
+    "price_2": 94.5,
+    "price_3": null,
+    "full": "0.7140"
+  },
+  {
+    "date": "11/6/14",
+    "price_1": null,
+    "price_2": 103.5,
+    "price_3": null,
+    "full": "0.7681"
+  },
+  {
+    "date": "11/7/14",
+    "price_1": null,
+    "price_2": 103.5,
+    "price_3": null,
+    "full": "0.8529"
+  },
+  {
+    "date": "11/8/14",
+    "price_1": null,
+    "price_2": 102,
+    "price_3": null,
+    "full": "0.6438"
+  },
+  {
+    "date": "11/9/14",
+    "price_1": null,
+    "price_2": 102,
+    "price_3": null,
+    "full": "0.8230"
+  },
+  {
+    "date": "11/10/14",
+    "price_1": null,
+    "price_2": 102,
+    "price_3": null,
+    "full": "0.6162"
+  },
+  {
+    "date": "11/11/14",
+    "price_1": 111.15,
+    "price_2": 102,
+    "price_3": null,
+    "full": "0.8523"
+  },
+  {
+    "date": "11/12/14",
+    "price_1": 111.15,
+    "price_2": 102,
+    "price_3": null,
+    "full": "0.6894"
+  },
+  {
+    "date": "11/13/14",
+    "price_1": 111.15,
+    "price_2": 102,
+    "price_3": 97.2,
+    "full": "0.6836"
+  },
+  {
+    "date": "11/14/14",
+    "price_1": 111.15,
+    "price_2": 102,
+    "price_3": 97.2,
+    "full": "1.0625"
+  },
+  {
+    "date": "11/15/14",
+    "price_1": null,
+    "price_2": 107,
+    "price_3": null,
+    "full": "0.6490"
+  },
+  {
+    "date": "11/16/14",
+    "price_1": null,
+    "price_2": 107,
+    "price_3": null,
+    "full": "1.0536"
+  },
+  {
+    "date": "11/17/14",
+    "price_1": null,
+    "price_2": 107,
+    "price_3": null,
+    "full": "0.9485"
+  },
+  {
+    "date": "11/18/14",
+    "price_1": 111.15,
+    "price_2": 107,
+    "price_3": 97.2,
+    "full": "1.0288"
+  },
+  {
+    "date": "11/19/14",
+    "price_1": 111.15,
+    "price_2": 107,
+    "price_3": 97.2,
+    "full": "0.7156"
+  },
+  {
+    "date": "11/20/14",
+    "price_1": 111.15,
+    "price_2": 107,
+    "price_3": 97.2,
+    "full": "0.7745"
+  },
+  {
+    "date": "11/21/14",
+    "price_1": null,
+    "price_2": 127,
+    "price_3": null,
+    "full": "0.7626"
+  },
+  {
+    "date": "11/22/14",
+    "price_1": null,
+    "price_2": 134,
+    "price_3": null,
+    "full": "0.7570"
+  },
+  {
+    "date": "11/23/14",
+    "price_1": 111.15,
+    "price_2": 134,
+    "price_3": 97.2,
+    "full": "0.6379"
+  },
+  {
+    "date": "11/24/14",
+    "price_1": null,
+    "price_2": 134,
+    "price_3": null,
+    "full": "0.8526"
+  },
+  {
+    "date": "11/25/14",
+    "price_1": null,
+    "price_2": 134,
+    "price_3": null,
+    "full": "0.6236"
+  },
+  {
+    "date": "11/26/14",
+    "price_1": null,
+    "price_2": 162,
+    "price_3": null,
+    "full": "0.8613"
+  },
+  {
+    "date": "11/27/14",
+    "price_1": 111.15,
+    "price_2": 162,
+    "price_3": 97.2,
+    "full": "1.0551"
+  },
+  {
+    "date": "11/28/14",
+    "price_1": null,
+    "price_2": 162,
+    "price_3": null,
+    "full": "0.8899"
+  },
+  {
+    "date": "11/29/14",
+    "price_1": null,
+    "price_2": 162,
+    "price_3": null,
+    "full": "0.7776"
+  },
+  {
+    "date": "11/30/14",
+    "price_1": 111.15,
+    "price_2": 162,
+    "price_3": 97.2,
+    "full": "0.7858"
+  },
+  {
+    "date": "12/1/14",
+    "price_1": null,
+    "price_2": 162,
+    "price_3": null,
+    "full": "0.6576"
+  },
+  {
+    "date": "12/2/14",
+    "price_1": 111.15,
+    "price_2": 162,
+    "price_3": 97.2,
+    "full": "0.6006"
+  },
+  {
+    "date": "12/3/14",
+    "price_1": 111.15,
+    "price_2": 184,
+    "price_3": 97.2,
+    "full": "0.8552"
+  },
+  {
+    "date": "12/4/14",
+    "price_1": null,
+    "price_2": 184,
+    "price_3": null,
+    "full": "0.9397"
+  },
+  {
+    "date": "12/5/14",
+    "price_1": 111.15,
+    "price_2": 184,
+    "price_3": 97.2,
+    "full": "0.7261"
+  },
+  {
+    "date": "12/6/14",
+    "price_1": 111.15,
+    "price_2": 184,
+    "price_3": 97.2,
+    "full": "0.8740"
+  },
+  {
+    "date": "12/7/14",
+    "price_1": 111.15,
+    "price_2": 184,
+    "price_3": 97.2,
+    "full": "0.8131"
+  },
+  {
+    "date": "12/8/14",
+    "price_1": null,
+    "price_2": 184,
+    "price_3": null,
+    "full": "1.0088"
+  },
+  {
+    "date": "12/9/14",
+    "price_1": null,
+    "price_2": 184,
+    "price_3": null,
+    "full": "0.8211"
+  },
+  {
+    "date": "12/10/14",
+    "price_1": 111.15,
+    "price_2": 184,
+    "price_3": 97.2,
+    "full": "0.6295"
+  },
+  {
+    "date": "12/11/14",
+    "price_1": 111.15,
+    "price_2": 189,
+    "price_3": 97.2,
+    "full": "0.9059"
+  },
+  {
+    "date": "12/12/14",
+    "price_1": null,
+    "price_2": 189,
+    "price_3": null,
+    "full": "0.6697"
+  },
+  {
+    "date": "12/13/14",
+    "price_1": null,
+    "price_2": 114.5,
+    "price_3": null,
+    "full": "0.8977"
+  },
+  {
+    "date": "12/14/14",
+    "price_1": null,
+    "price_2": 114.5,
+    "price_3": null,
+    "full": "0.7411"
+  },
+  {
+    "date": "12/15/14",
+    "price_1": null,
+    "price_2": 114.5,
+    "price_3": null,
+    "full": "0.7792"
+  },
+  {
+    "date": "12/16/14",
+    "price_1": 111.15,
+    "price_2": 114.5,
+    "price_3": 97.2,
+    "full": "0.8535"
+  },
+  {
+    "date": "12/17/14",
+    "price_1": 111.15,
+    "price_2": 180,
+    "price_3": 97.2,
+    "full": "0.9632"
+  },
+  {
+    "date": "12/18/14",
+    "price_1": null,
+    "price_2": 180,
+    "price_3": null,
+    "full": "0.7484"
+  },
+  {
+    "date": "12/19/14",
+    "price_1": 111.15,
+    "price_2": 114.5,
+    "price_3": 97.2,
+    "full": "0.7931"
+  },
+  {
+    "date": "12/20/14",
+    "price_1": null,
+    "price_2": 114.5,
+    "price_3": null,
+    "full": "0.6193"
+  },
+  {
+    "date": "12/21/14",
+    "price_1": null,
+    "price_2": 180,
+    "price_3": null,
+    "full": "0.8227"
+  },
+  {
+    "date": "12/22/14",
+    "price_1": null,
+    "price_2": 180,
+    "price_3": null,
+    "full": "0.9055"
+  },
+  {
+    "date": "12/23/14",
+    "price_1": null,
+    "price_2": 180,
+    "price_3": null,
+    "full": "1.0782"
+  },
+  {
+    "date": "12/24/14",
+    "price_1": null,
+    "price_2": 204,
+    "price_3": null,
+    "full": "0.9990"
+  },
+  {
+    "date": "12/25/14",
+    "price_1": null,
+    "price_2": 204,
+    "price_3": null,
+    "full": "0.8999"
+  },
+  {
+    "date": "12/26/14",
+    "price_1": null,
+    "price_2": 204,
+    "price_3": null,
+    "full": "0.8361"
+  },
+  {
+    "date": "12/27/14",
+    "price_1": 98.55,
+    "price_2": 195,
+    "price_3": 89.1,
+    "full": "0.6169"
+  },
+  {
+    "date": "12/28/14",
+    "price_1": null,
+    "price_2": 204,
+    "price_3": null,
+    "full": "0.8006"
+  },
+  {
+    "date": "12/29/14",
+    "price_1": null,
+    "price_2": 204,
+    "price_3": null,
+    "full": "0.8011"
+  },
+  {
+    "date": "12/30/14",
+    "price_1": null,
+    "price_2": 204,
+    "price_3": null,
+    "full": "1.0786"
+  },
+  {
+    "date": "12/31/14",
+    "price_1": 98.55,
+    "price_2": 213,
+    "price_3": 89.1,
+    "full": "0.9342"
+  },
+  {
+    "date": "1/1/15",
+    "price_1": 98.55,
+    "price_2": 213,
+    "price_3": 89.1,
+    "full": "0.6069"
+  },
+  {
+    "date": "1/2/15",
+    "price_1": 98.55,
+    "price_2": 213,
+    "price_3": 89.1,
+    "full": "0.7282"
+  },
+  {
+    "date": "1/3/15",
+    "price_1": null,
+    "price_2": 223,
+    "price_3": null,
+    "full": "0.9374"
+  },
+  {
+    "date": "1/4/15",
+    "price_1": 108,
+    "price_2": 223,
+    "price_3": 89.1,
+    "full": "1.0733"
+  },
+  {
+    "date": "1/5/15",
+    "price_1": null,
+    "price_2": 223,
+    "price_3": null,
+    "full": "0.9258"
+  },
+  {
+    "date": "1/6/15",
+    "price_1": 108,
+    "price_2": 223,
+    "price_3": 89.1,
+    "full": "1.0556"
+  },
+  {
+    "date": "1/7/15",
+    "price_1": null,
+    "price_2": 223,
+    "price_3": null,
+    "full": "0.7862"
+  },
+  {
+    "date": "1/8/15",
+    "price_1": null,
+    "price_2": 159.5,
+    "price_3": null,
+    "full": "0.9530"
+  },
+  {
+    "date": "1/9/15",
+    "price_1": null,
+    "price_2": 159.5,
+    "price_3": null,
+    "full": "0.9129"
+  },
+  {
+    "date": "1/10/15",
+    "price_1": null,
+    "price_2": 150,
+    "price_3": null,
+    "full": "1.0114"
+  },
+  {
+    "date": "1/11/15",
+    "price_1": null,
+    "price_2": 150,
+    "price_3": null,
+    "full": "0.6763"
+  },
+  {
+    "date": "1/12/15",
+    "price_1": null,
+    "price_2": 144,
+    "price_3": null,
+    "full": "1.0164"
+  },
+  {
+    "date": "1/13/15",
+    "price_1": null,
+    "price_2": 144,
+    "price_3": null,
+    "full": "0.7488"
+  },
+  {
+    "date": "1/14/15",
+    "price_1": null,
+    "price_2": 120,
+    "price_3": null,
+    "full": "0.8112"
+  },
+  {
+    "date": "1/15/15",
+    "price_1": null,
+    "price_2": 120,
+    "price_3": null,
+    "full": "0.7198"
+  },
+  {
+    "date": "1/16/15",
+    "price_1": null,
+    "price_2": 125.5,
+    "price_3": null,
+    "full": "0.9338"
+  },
+  {
+    "date": "1/17/15",
+    "price_1": null,
+    "price_2": 125.5,
+    "price_3": null,
+    "full": "0.7220"
+  },
+  {
+    "date": "1/18/15",
+    "price_1": null,
+    "price_2": 125.5,
+    "price_3": null,
+    "full": "0.7015"
+  },
+  {
+    "date": "1/19/15",
+    "price_1": null,
+    "price_2": 125.5,
+    "price_3": null,
+    "full": "0.8810"
+  },
+  {
+    "date": "1/20/15",
+    "price_1": null,
+    "price_2": 125.5,
+    "price_3": null,
+    "full": "0.9222"
+  },
+  {
+    "date": "1/21/15",
+    "price_1": null,
+    "price_2": 122,
+    "price_3": null,
+    "full": "0.8569"
+  },
+  {
+    "date": "1/22/15",
+    "price_1": null,
+    "price_2": 122,
+    "price_3": null,
+    "full": "0.9825"
+  },
+  {
+    "date": "1/23/15",
+    "price_1": null,
+    "price_2": 122,
+    "price_3": null,
+    "full": "0.6415"
+  },
+  {
+    "date": "1/24/15",
+    "price_1": null,
+    "price_2": 122,
+    "price_3": null,
+    "full": "0.9112"
+  },
+  {
+    "date": "1/25/15",
+    "price_1": null,
+    "price_2": 122,
+    "price_3": null,
+    "full": "0.6001"
+  },
+  {
+    "date": "1/26/15",
+    "price_1": null,
+    "price_2": 117,
+    "price_3": null,
+    "full": "0.7747"
+  },
+  {
+    "date": "1/27/15",
+    "price_1": null,
+    "price_2": 117,
+    "price_3": null,
+    "full": "0.9956"
+  },
+  {
+    "date": "1/28/15",
+    "price_1": null,
+    "price_2": 117,
+    "price_3": null,
+    "full": "0.6934"
+  },
+  {
+    "date": "1/29/15",
+    "price_1": null,
+    "price_2": 122,
+    "price_3": null,
+    "full": "0.9044"
+  },
+  {
+    "date": "1/30/15",
+    "price_1": null,
+    "price_2": 122,
+    "price_3": null,
+    "full": "1.0515"
+  },
+  {
+    "date": "1/31/15",
+    "price_1": null,
+    "price_2": 122,
+    "price_3": null,
+    "full": "0.6209"
+  },
+  {
+    "date": "2/1/15",
+    "price_1": null,
+    "price_2": 122.5,
+    "price_3": null,
+    "full": "0.7716"
+  },
+  {
+    "date": "2/2/15",
+    "price_1": null,
+    "price_2": 122.5,
+    "price_3": null,
+    "full": "1.0969"
+  },
+  {
+    "date": "2/3/15",
+    "price_1": null,
+    "price_2": 122.5,
+    "price_3": null,
+    "full": "0.9477"
+  },
+  {
+    "date": "2/4/15",
+    "price_1": null,
+    "price_2": 116,
+    "price_3": null,
+    "full": "0.8651"
+  },
+  {
+    "date": "2/5/15",
+    "price_1": 108,
+    "price_2": 116,
+    "price_3": 84.15,
+    "full": "0.6985"
+  },
+  {
+    "date": "2/6/15",
+    "price_1": 108,
+    "price_2": 116,
+    "price_3": 84.15,
+    "full": "0.9919"
+  },
+  {
+    "date": "2/7/15",
+    "price_1": 108,
+    "price_2": 116,
+    "price_3": 84.15,
+    "full": "0.9404"
+  },
+  {
+    "date": "2/8/15",
+    "price_1": 108,
+    "price_2": 116,
+    "price_3": 84.15,
+    "full": "0.7920"
+  },
+  {
+    "date": "2/9/15",
+    "price_1": 108,
+    "price_2": 111,
+    "price_3": 84.15,
+    "full": "1.0532"
+  },
+  {
+    "date": "2/10/15",
+    "price_1": 108,
+    "price_2": 111,
+    "price_3": 84.15,
+    "full": "1.0472"
+  },
+  {
+    "date": "2/11/15",
+    "price_1": 108,
+    "price_2": 111,
+    "price_3": 84.15,
+    "full": "0.6354"
+  },
+  {
+    "date": "2/12/15",
+    "price_1": 108,
+    "price_2": 114,
+    "price_3": 84.15,
+    "full": "0.8095"
+  },
+  {
+    "date": "2/13/15",
+    "price_1": 108,
+    "price_2": 114,
+    "price_3": 84.15,
+    "full": "0.6174"
+  },
+  {
+    "date": "2/14/15",
+    "price_1": 108,
+    "price_2": 114,
+    "price_3": 93.83,
+    "full": "0.6763"
+  },
+  {
+    "date": "2/15/15",
+    "price_1": 104.85,
+    "price_2": 114,
+    "price_3": 93.83,
+    "full": "0.9727"
+  },
+  {
+    "date": "2/16/15",
+    "price_1": 104.85,
+    "price_2": 114,
+    "price_3": 93.83,
+    "full": "0.6105"
+  },
+  {
+    "date": "2/17/15",
+    "price_1": 104.85,
+    "price_2": 114,
+    "price_3": 93.83,
+    "full": "0.9158"
+  },
+  {
+    "date": "2/18/15",
+    "price_1": 104.85,
+    "price_2": 118,
+    "price_3": 93.83,
+    "full": "0.7964"
+  },
+  {
+    "date": "2/19/15",
+    "price_1": 104.85,
+    "price_2": 118,
+    "price_3": 93.83,
+    "full": "1.0520"
+  },
+  {
+    "date": "2/20/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.7524"
+  },
+  {
+    "date": "2/21/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.8238"
+  },
+  {
+    "date": "2/22/15",
+    "price_1": null,
+    "price_2": 120,
+    "price_3": null,
+    "full": "0.9810"
+  },
+  {
+    "date": "2/23/15",
+    "price_1": null,
+    "price_2": 120,
+    "price_3": null,
+    "full": "0.7976"
+  },
+  {
+    "date": "2/24/15",
+    "price_1": null,
+    "price_2": 120,
+    "price_3": null,
+    "full": "0.7558"
+  },
+  {
+    "date": "2/25/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.7527"
+  },
+  {
+    "date": "2/26/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.7036"
+  },
+  {
+    "date": "2/27/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.7053"
+  },
+  {
+    "date": "2/28/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.9097"
+  },
+  {
+    "date": "3/1/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.8874"
+  },
+  {
+    "date": "3/2/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.6652"
+  },
+  {
+    "date": "3/3/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.8776"
+  },
+  {
+    "date": "3/4/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.9079"
+  },
+  {
+    "date": "3/5/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.8938"
+  },
+  {
+    "date": "3/6/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.8534"
+  },
+  {
+    "date": "3/7/15",
+    "price_1": null,
+    "price_2": 124,
+    "price_3": null,
+    "full": "0.8560"
+  },
+  {
+    "date": "3/8/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.7415"
+  },
+  {
+    "date": "3/9/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.7354"
+  },
+  {
+    "date": "3/10/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "1.0522"
+  },
+  {
+    "date": "3/11/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "1.0226"
+  },
+  {
+    "date": "3/12/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.9928"
+  },
+  {
+    "date": "3/13/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.8521"
+  },
+  {
+    "date": "3/14/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.9624"
+  },
+  {
+    "date": "3/15/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.9157"
+  },
+  {
+    "date": "3/16/15",
+    "price_1": null,
+    "price_2": 125,
+    "price_3": null,
+    "full": "0.6198"
+  },
+  {
+    "date": "3/17/15",
+    "price_1": null,
+    "price_2": 125,
+    "price_3": null,
+    "full": "1.0173"
+  },
+  {
+    "date": "3/18/15",
+    "price_1": null,
+    "price_2": 125,
+    "price_3": null,
+    "full": "0.9219"
+  },
+  {
+    "date": "3/19/15",
+    "price_1": null,
+    "price_2": 125,
+    "price_3": null,
+    "full": "0.6108"
+  },
+  {
+    "date": "3/20/15",
+    "price_1": null,
+    "price_2": 125,
+    "price_3": null,
+    "full": "0.7483"
+  },
+  {
+    "date": "3/21/15",
+    "price_1": null,
+    "price_2": 125,
+    "price_3": null,
+    "full": "0.6384"
+  },
+  {
+    "date": "3/22/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.9996"
+  },
+  {
+    "date": "3/23/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.8159"
+  },
+  {
+    "date": "3/24/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.8779"
+  },
+  {
+    "date": "3/25/15",
+    "price_1": null,
+    "price_2": null,
+    "price_3": null,
+    "full": "0.9664"
+  },
+  {
+    "date": "3/26/15",
+    "price_1": null,
+    "price_2": 143,
+    "price_3": null,
+    "full": "0.6021"
+  },
+  {
+    "date": "3/27/15",
+    "price_1": null,
+    "price_2": 143,
+    "price_3": null,
+    "full": "0.6103"
+  },
+  {
+    "date": "3/28/15",
+    "price_1": null,
+    "price_2": 143,
+    "price_3": null,
+    "full": "0.6346"
+  },
+  {
+    "date": "3/29/15",
+    "price_1": 107.9,
+    "price_2": 143,
+    "price_3": 90.9,
+    "full": "1.0028"
+  },
+  {
+    "date": "3/30/15",
+    "price_1": 107.9,
+    "price_2": 143,
+    "price_3": 90.9,
+    "full": "0.7071"
+  },
+  {
+    "date": "3/31/15",
+    "price_1": 107.9,
+    "price_2": 149.5,
+    "price_3": 90.9,
+    "full": "0.7236"
+  },
+  {
+    "date": "4/1/15",
+    "price_1": 107.9,
+    "price_2": 147,
+    "price_3": 90.9,
+    "full": "0.6371"
+  },
+  {
+    "date": "4/2/15",
+    "price_1": 107.9,
+    "price_2": 147,
+    "price_3": 90.9,
+    "full": "0.8077"
+  },
+  {
+    "date": "4/3/15",
+    "price_1": 107.9,
+    "price_2": 144,
+    "price_3": 90.9,
+    "full": "0.6225"
+  },
+  {
+    "date": "4/4/15",
+    "price_1": 107.9,
+    "price_2": 144,
+    "price_3": 90.9,
+    "full": "1.0539"
+  },
+  {
+    "date": "4/5/15",
+    "price_1": 107.9,
+    "price_2": 144,
+    "price_3": 90.9,
+    "full": "1.0320"
+  },
+  {
+    "date": "4/6/15",
+    "price_1": 107.9,
+    "price_2": 144,
+    "price_3": 90.9,
+    "full": "1.0515"
+  },
+  {
+    "date": "4/7/15",
+    "price_1": 107.9,
+    "price_2": 144,
+    "price_3": 90.9,
+    "full": "0.8341"
+  },
+  {
+    "date": "4/8/15",
+    "price_1": 107.9,
+    "price_2": 144,
+    "price_3": 90.9,
+    "full": "0.9688"
+  },
+  {
+    "date": "4/9/15",
+    "price_1": 107.9,
+    "price_2": 144,
+    "price_3": 90.9,
+    "full": "0.7627"
+  },
+  {
+    "date": "4/10/15",
+    "price_1": 107.9,
+    "price_2": 144,
+    "price_3": 90.9,
+    "full": "0.9075"
+  },
+  {
+    "date": "4/11/15",
+    "price_1": 107.9,
+    "price_2": 144,
+    "price_3": 90.9,
+    "full": "0.6399"
+  },
+  {
+    "date": "4/12/15",
+    "price_1": 107.9,
+    "price_2": 144,
+    "price_3": 90.9,
+    "full": "0.8639"
+  },
+  {
+    "date": "4/13/15",
+    "price_1": 107.9,
+    "price_2": 144,
+    "price_3": 90.9,
+    "full": "0.8381"
+  },
+  {
+    "date": "4/14/15",
+    "price_1": 107.9,
+    "price_2": 144,
+    "price_3": 90.9,
+    "full": "0.6270"
+  },
+  {
+    "date": "4/15/15",
+    "price_1": 107.9,
+    "price_2": 152,
+    "price_3": 90.9,
+    "full": "0.8165"
+  },
+  {
+    "date": "4/16/15",
+    "price_1": 107.9,
+    "price_2": 152,
+    "price_3": 90.9,
+    "full": "1.0518"
+  },
+  {
+    "date": "4/17/15",
+    "price_1": 107.9,
+    "price_2": 152,
+    "price_3": 90.9,
+    "full": "0.8618"
+  },
+  {
+    "date": "4/18/15",
+    "price_1": 106.25,
+    "price_2": 152,
+    "price_3": 92.7,
+    "full": "0.6041"
+  },
+  {
+    "date": "4/19/15",
+    "price_1": 106.25,
+    "price_2": 152,
+    "price_3": 92.7,
+    "full": "0.7147"
+  },
+  {
+    "date": "4/20/15",
+    "price_1": 106.25,
+    "price_2": 152,
+    "price_3": 92.7,
+    "full": "0.7365"
+  },
+  {
+    "date": "4/21/15",
+    "price_1": 106.25,
+    "price_2": 152,
+    "price_3": 92.7,
+    "full": "0.9485"
+  },
+  {
+    "date": "4/22/15",
+    "price_1": 106.25,
+    "price_2": 183,
+    "price_3": 92.7,
+    "full": "0.8983"
+  },
+  {
+    "date": "4/23/15",
+    "price_1": 106.25,
+    "price_2": 183,
+    "price_3": 92.7,
+    "full": "1.0547"
+  },
+  {
+    "date": "4/24/15",
+    "price_1": 106.25,
+    "price_2": 177,
+    "price_3": 92.7,
+    "full": "0.6415"
+  },
+  {
+    "date": "4/25/15",
+    "price_1": 106.25,
+    "price_2": 177,
+    "price_3": 92.7,
+    "full": "0.7511"
+  },
+  {
+    "date": "4/26/15",
+    "price_1": 106.25,
+    "price_2": 177,
+    "price_3": 92.7,
+    "full": "0.8342"
+  },
+  {
+    "date": "4/27/15",
+    "price_1": 106.25,
+    "price_2": 177,
+    "price_3": 92.7,
+    "full": "1.0813"
+  },
+  {
+    "date": "4/28/15",
+    "price_1": 106.25,
+    "price_2": 177,
+    "price_3": 92.7,
+    "full": "0.6720"
+  },
+  {
+    "date": "4/29/15",
+    "price_1": 106.25,
+    "price_2": 194,
+    "price_3": 92.7,
+    "full": "0.8406"
+  },
+  {
+    "date": "4/30/15",
+    "price_1": 106.25,
+    "price_2": 194,
+    "price_3": 92.7,
+    "full": "0.9954"
+  },
+  {
+    "date": "5/1/15",
+    "price_1": 106.25,
+    "price_2": 188,
+    "price_3": 92.7,
+    "full": "0.7379"
+  },
+  {
+    "date": "5/2/15",
+    "price_1": 106.25,
+    "price_2": 188,
+    "price_3": 92.7,
+    "full": "1.0583"
+  },
+  {
+    "date": "5/3/15",
+    "price_1": 106.25,
+    "price_2": 188,
+    "price_3": 92.7,
+    "full": "0.8801"
+  },
+  {
+    "date": "5/4/15",
+    "price_1": 106.25,
+    "price_2": 188,
+    "price_3": 92.7,
+    "full": "0.6146"
+  },
+  {
+    "date": "5/5/15",
+    "price_1": 109.35,
+    "price_2": 188,
+    "price_3": 92.7,
+    "full": "0.9901"
+  },
+  {
+    "date": "5/6/15",
+    "price_1": 109.35,
+    "price_2": 203,
+    "price_3": 92.7,
+    "full": "0.7418"
+  },
+  {
+    "date": "5/7/15",
+    "price_1": 109.35,
+    "price_2": 212.5,
+    "price_3": 92.7,
+    "full": "1.0668"
+  },
+  {
+    "date": "5/8/15",
+    "price_1": 109.35,
+    "price_2": 212.5,
+    "price_3": 92.7,
+    "full": "1.0698"
+  },
+  {
+    "date": "5/9/15",
+    "price_1": 109.35,
+    "price_2": 199,
+    "price_3": 92.7,
+    "full": "0.8755"
+  },
+  {
+    "date": "5/10/15",
+    "price_1": 106.25,
+    "price_2": 199,
+    "price_3": 92.7,
+    "full": "0.6257"
+  },
+  {
+    "date": "5/11/15",
+    "price_1": 106.25,
+    "price_2": 199,
+    "price_3": 92.7,
+    "full": "0.8861"
+  },
+  {
+    "date": "5/12/15",
+    "price_1": 106.25,
+    "price_2": 199,
+    "price_3": 92.7,
+    "full": "0.8996"
+  },
+  {
+    "date": "5/13/15",
+    "price_1": 109.35,
+    "price_2": 199,
+    "price_3": 92.7,
+    "full": "0.8354"
+  },
+  {
+    "date": "5/14/15",
+    "price_1": 109.35,
+    "price_2": 199,
+    "price_3": 92.7,
+    "full": "0.8041"
+  },
+  {
+    "date": "5/15/15",
+    "price_1": 109.35,
+    "price_2": 199,
+    "price_3": 92.7,
+    "full": "0.6652"
+  },
+  {
+    "date": "5/16/15",
+    "price_1": 113.85,
+    "price_2": 190,
+    "price_3": 98.1,
+    "full": "0.7905"
+  },
+  {
+    "date": "5/17/15",
+    "price_1": 113.85,
+    "price_2": 190,
+    "price_3": 98.1,
+    "full": "0.9328"
+  },
+  {
+    "date": "5/18/15",
+    "price_1": 113.85,
+    "price_2": 206,
+    "price_3": 98.1,
+    "full": "1.0132"
+  },
+  {
+    "date": "5/19/15",
+    "price_1": 113.85,
+    "price_2": 201,
+    "price_3": 98.1,
+    "full": "0.6663"
+  },
+  {
+    "date": "5/20/15",
+    "price_1": 113.85,
+    "price_2": 210.5,
+    "price_3": 98.1,
+    "full": "1.0072"
+  },
+  {
+    "date": "5/21/15",
+    "price_1": 113.85,
+    "price_2": 210.5,
+    "price_3": 98.1,
+    "full": "0.7797"
+  },
+  {
+    "date": "5/22/15",
+    "price_1": 113.85,
+    "price_2": 183,
+    "price_3": 98.1,
+    "full": "0.7045"
+  },
+  {
+    "date": "5/23/15",
+    "price_1": 113.85,
+    "price_2": 183,
+    "price_3": 98.1,
+    "full": "0.6623"
+  },
+  {
+    "date": "5/24/15",
+    "price_1": 113.85,
+    "price_2": 183,
+    "price_3": 98.1,
+    "full": "1.0794"
+  },
+  {
+    "date": "5/25/15",
+    "price_1": 113.85,
+    "price_2": 183,
+    "price_3": 98.1,
+    "full": "0.6489"
+  },
+  {
+    "date": "5/26/15",
+    "price_1": 113.85,
+    "price_2": 187.5,
+    "price_3": 98.1,
+    "full": "0.8437"
+  },
+  {
+    "date": "5/27/15",
+    "price_1": 113.85,
+    "price_2": 187.5,
+    "price_3": 98.1,
+    "full": "0.7087"
+  },
+  {
+    "date": "5/28/15",
+    "price_1": 113.85,
+    "price_2": 208,
+    "price_3": 98.1,
+    "full": "1.0938"
+  },
+  {
+    "date": "5/29/15",
+    "price_1": 113.85,
+    "price_2": 190,
+    "price_3": 98.1,
+    "full": "0.8026"
+  },
+  {
+    "date": "5/30/15",
+    "price_1": 113.85,
+    "price_2": 190,
+    "price_3": 98.1,
+    "full": "0.9916"
+  },
+  {
+    "date": "5/31/15",
+    "price_1": 113.85,
+    "price_2": 190,
+    "price_3": 98.1,
+    "full": "0.6595"
+  },
+  {
+    "date": "6/1/15",
+    "price_1": 113.85,
+    "price_2": 76,
+    "price_3": 98.1,
+    "full": "0.7824"
+  },
+  {
+    "date": "6/2/15",
+    "price_1": 113.85,
+    "price_2": 76,
+    "price_3": 98.1,
+    "full": "0.8214"
+  },
+  {
+    "date": "6/3/15",
+    "price_1": 113.85,
+    "price_2": 165,
+    "price_3": 98.1,
+    "full": "0.7703"
+  },
+  {
+    "date": "6/4/15",
+    "price_1": 113.85,
+    "price_2": 165,
+    "price_3": 98.1,
+    "full": "0.9078"
+  },
+  {
+    "date": "6/5/15",
+    "price_1": 113.85,
+    "price_2": 187.5,
+    "price_3": 98.1,
+    "full": "0.9956"
+  },
+  {
+    "date": "6/6/15",
+    "price_1": 113.85,
+    "price_2": 187.5,
+    "price_3": 98.1,
+    "full": "0.8241"
+  },
+  {
+    "date": "6/7/15",
+    "price_1": 113.85,
+    "price_2": 187.5,
+    "price_3": 98.1,
+    "full": "0.7131"
+  },
+  {
+    "date": "6/8/15",
+    "price_1": 113.85,
+    "price_2": 187.5,
+    "price_3": 98.1,
+    "full": "0.7537"
+  },
+  {
+    "date": "6/9/15",
+    "price_1": 113.85,
+    "price_2": 187.5,
+    "price_3": 98.1,
+    "full": "0.8529"
+  },
+  {
+    "date": "6/10/15",
+    "price_1": 113.85,
+    "price_2": 187.5,
+    "price_3": 98.1,
+    "full": "1.0893"
+  },
+  {
+    "date": "6/11/15",
+    "price_1": 113.85,
+    "price_2": 187.5,
+    "price_3": 98.1,
+    "full": "0.8111"
+  },
+  {
+    "date": "6/12/15",
+    "price_1": 113.85,
+    "price_2": 187.5,
+    "price_3": 93.6,
+    "full": "0.7662"
+  },
+  {
+    "date": "6/13/15",
+    "price_1": 116.1,
+    "price_2": 187.5,
+    "price_3": 93.6,
+    "full": "0.8488"
+  },
+  {
+    "date": "6/14/15",
+    "price_1": 116.1,
+    "price_2": 179,
+    "price_3": 93.6,
+    "full": "0.8076"
+  },
+  {
+    "date": "6/15/15",
+    "price_1": 116.1,
+    "price_2": 179,
+    "price_3": 98.1,
+    "full": "0.6752"
+  }
+]
